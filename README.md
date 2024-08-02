@@ -1,5 +1,5 @@
 # The Darknet Market Bible
-The Darknet Market Bible is becoming harder and harder to find. The clearnet site can be found at: https://darknetbible.org/
+The Darknet Market Bible is becoming harder and harder to find. The clearnet site can be found at: https://darknetbible.org/. The Clearnet version is from 2022. So this repo has the most up to date version.
 
 There was an Onion at one point but it has consistently been down.
 
