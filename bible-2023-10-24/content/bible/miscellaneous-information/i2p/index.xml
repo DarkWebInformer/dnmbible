@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I2P on DNM Bible</title>
+    <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/i2p/</link>
+    <description>Recent content in I2P on DNM Bible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/i2p/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tails I2P</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/i2p/tails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/i2p/tails/</guid>
+      <description>Installing I2P These instruction will walk you through how to install I2P on Tails. To start make sure the version of tails you are running is up to date.
+Download the script/files from Dread at http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/i2p
+ Read the instructions from the README file.  &amp;mdash;&amp;ndash;BEGIN PGP SIGNED MESSAGE&amp;mdash;&amp;ndash;
+Hash: SHA512
+SHA256sums: 4e301a269ffc6908f811187341b3357f785105dc07777562af2cc6aa8bc57651 README.txt 2822808637d1c0f4539347422384c54803b2db465d9a934f74fe122ee52def13 disable_i2p.sh 9202b1f757964cc0a55530907534d87b92c9e41c8995f7bec16762c4fa88c691 enable_i2p.sh 87fbe499bdb58aa6b9d102edd4131499eecbf8609e2451ab3e9709fdaafb482d install_i2pd.sh 363dc450bfaf7158cf8aaf05fbdf85779385f22244efdb3b79caf58bf2b3098f tails-create-netns-i2p 02f547e68cd04f17822c06e6ea7a9c14b2f32dbf88d7b19224ef20d5d386fc66 tails_i2pd_v0.1.tar.xz
+SHA512sums: f45ac974b1cde8dd58332bbdd240949ca3c4f9eca83a6cfdcd2aeaf55d0d7908068c190d0fe45efb6affdb159f2c47cfa4bd88db836ec58c71c7d0f1e3fe6c5b README.txt 375a7e3b21ceb1c75a698bd47b6eabd75440b601bbf42c7975a3734385b414dc022f3402607b857133a87421d607afbcec44aa3644aaacaff662f1370b107b92 disable_i2p.sh f5400b6dab69e4ed54739389a92a011ffcea5798dd36b280229c45402acc8b53e364a8201d3aaa68537d7648b5dc091efafea18e13cef0af6d853f8fe39d3d6d enable_i2p.</description>
+    </item>
+    
+    <item>
+      <title>Android I2P</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/i2p/androidi2p/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/i2p/androidi2p/</guid>
+      <description>Android Setup - Easy While it is possible to run I2P on Android devices, this method is only recommended if you are running Graphene OS or do not have the ability to use any other setup methods.  Prerequesites  Install F-Droid app store Install InvZible Pro from F-Droid - Routes traffic through TOR, prevents DNS leakage through DNSCRYPT, and provides access to I2P sites (eepSites) with Purple I2P. Install Fennec F-Droid from F-Droid - Acts as a hardened web browser for browsing I2P sites (eepSites)  Once the required applications have been installed begin by opening InvZible Pro, once opened complete the initial setup, provide relevant permissions, and disable battery optimizations.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu I2P</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/i2p/ubuntui2p/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/i2p/ubuntui2p/</guid>
+      <description>Linux (Ubuntu) Setup - Intermediate This works for Ubuntu (Bionic 18.04 and newer), Linux Mint (Tara19 or newer), and their derivatives.
+Prerequesites
+ Ubuntu 18.04 or newer OpenSSL 1.1 or newer Basic Terminal Skills  Open a terminal (Ctrl Alt T) and enter
+sudo apt-add-repository ppa:i2p-maintainers/i2p This command will add the PPA to the /etc/apt/sources.list.d/ directory and fetch the GPG key that the repository has been signed with. The GPG key ensures that the packages have not been tampered with since being built.</description>
+    </item>
+    
+    <item>
+      <title>Qubes/Whonix I2P</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/i2p/qubeswhonixi2p/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/i2p/qubeswhonixi2p/</guid>
+      <description>Whonix on Qubes Setup - Advanced Works on Qubes OS 4.1 and newer, Whonix 16 or newer Prerequisites
+ Install Qubes OS with Whonix templates  Setup a Whonix work station with the appropriate persistence options enabled (Without persistence correctly set up you will lose all progress on virtual machine restart) All following commands should be entered into your whonix workstation terminal. Add the I2P signing key to your Qubes install If you are using Whonix-Workstation ™ (anon-whonix), run</description>
+    </item>
+    
+  </channel>
+</rss>

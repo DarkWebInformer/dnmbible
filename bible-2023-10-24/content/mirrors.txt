@@ -1,0 +1,53 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+The official onion for the DNM Bible is:
+
+http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion
+
+This signature will return good!
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERS0A7yA1e+xnkBg7QalW/C9HVEkFAmDotNcACgkQQalW/C9H
+VEkEwA//XgSjQi/C7XFzCcYq+mJMEcYlt0DX/oEoWWFptt9ocY4wZrmpXZy8QQMu
+rJjACHOL105DorM68zA/pJDDeYyL29C26/eydT3sFT55+LbNGxpLHUJtPiDZxBzn
+FtbzLo/7vXWzXI3r/RW0dDUq/3h0HRe2umvFNQtOfccB2xtd4b8UO/AWUpw4A4jb
+3kdYMMUiT205P8Digu+4EC8Qy7k7tVrTWauYvKQHS2VVFl9B0OXq/EqneFmkrg7a
+sym7GpvPoaCYg1eX3N2iiO0v8LBSQ9YQFtGGYlM6yFM/AK9BWd01WgUjCvpvwvv1
+KXnuJXGAp7YPaWTZ6ojT52UHgt0hXt/Sc7s0un//mA59Wt5mC5yDTphbde8ktCQT
+ti0Z9CpOpzVQKCzXdW3DgkpNHbIWkCstwMwhvYczRU/x4pgrHHAHVQIkMdo/UZ6R
+Q2IpLOSqVLvFi0VIWHsd7t8uUDT49ZGrXi1Rltj2MmUtpOLg0Jaob9zCxnFrE4Mm
+e+H+bTdEgQyLFfNNiG2ly/G6m8ZIHCdLty1/RSQYEzgcTceH8m2L+4ervC/1nv0V
+sI1+Oiz94JhQ/wAp0pWgB6hPeZLRAf2Yovl0xxffrGLswddpKvazwkM0TD5iDNtf
+IVqkScJKvtPWqp2d2NH8ivVyvV0LrOZQVPg/N6gNT+39SasU7lI=
+=O2Pi
+-----END PGP SIGNATURE-----
+
+---
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+The official onion for the DNM Bible is:
+
+http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2lnkgleanklvf.onion
+
+This signature will return BAD!
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEERS0A7yA1e+xnkBg7QalW/C9HVEkFAmDotNcACgkQQalW/C9H
+VEkEwA//XgSjQi/C7XFzCcYq+mJMEcYlt0DX/oEoWWFptt9ocY4wZrmpXZy8QQMu
+rJjACHOL105DorM68zA/pJDDeYyL29C26/eydT3sFT55+LbNGxpLHUJtPiDZxBzn
+FtbzLo/7vXWzXI3r/RW0dDUq/3h0HRe2umvFNQtOfccB2xtd4b8UO/AWUpw4A4jb
+3kdYMMUiT205P8Digu+4EC8Qy7k7tVrTWauYvKQHS2VVFl9B0OXq/EqneFmkrg7a
+sym7GpvPoaCYg1eX3N2iiO0v8LBSQ9YQFtGGYlM6yFM/AK9BWd01WgUjCvpvwvv1
+KXnuJXGAp7YPaWTZ6ojT52UHgt0hXt/Sc7s0un//mA59Wt5mC5yDTphbde8ktCQT
+ti0Z9CpOpzVQKCzXdW3DgkpNHbIWkCstwMwhvYczRU/x4pgrHHAHVQIkMdo/UZ6R
+Q2IpLOSqVLvFi0VIWHsd7t8uUDT49ZGrXi1Rltj2MmUtpOLg0Jaob9zCxnFrE4Mm
+e+H+bTdEgQyLFfNNiG2ly/G6m8ZIHCdLty1/RSQYEzgcTceH8m2L+4ervC/1nv0V
+sI1+Oiz94JhQ/wAp0pWgB6hPeZLRAf2Yovl0xxffrGLswddpKvazwkM0TD5iDNtf
+IVqkScJKvtPWqp2d2NH8ivVyvV0LrOZQVPg/N6gNT+39SasU7lI=
+=O2Pi
+-----END PGP SIGNATURE-----
+
+

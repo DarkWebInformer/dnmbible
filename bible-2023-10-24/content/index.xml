@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on DNM Bible</title>
+    <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/</link>
+    <description>Recent content in Introduction on DNM Bible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating a key pair</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/creating_a_pgp_key_pair/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/creating_a_pgp_key_pair/</guid>
+      <description>Creating a PGP key pair When you create a PGP key pair, it gives you two unique keys: a public key, and a private key. You are to not, at any times, or for any reason, to give anyone your private key. That is for your eyes only. Your public key, however, is able to be given out so others can encrypt messages with your public key, send them to you, and then only YOU can decrypt them with your private key.</description>
+    </item>
+    
+    <item>
+      <title>Origin Countries</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/shipping/origin_countries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/shipping/origin_countries/</guid>
+      <description>Origin Countries The first rule is: stick to domestic whenever possible. Mail that does not cross any country border will get far less checked than all other mail. This reduces the risk of you not getting your package or even getting in legal trouble.
+However one disadvantage is that the prices can be a bit higher compared to other listings from vendors that ship not from your country. You have to decide for yourself if you want to take the higher risk and pay a bit less or if you want to play it safe and pay a bit more.</description>
+    </item>
+    
+    <item>
+      <title>Important tips for using markets</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/important_tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/important_tips/</guid>
+      <description>Important tips for using markets   NEVER let the market encrypt sensitive data (such as your address) for you. Always encrypt it yourself. The market can always store the plaintext version of your message, and send an encrypted one to the vendor. That way you both think it was encrypted while the market still has the original and unencrypted message. Also if the market gets taken over by law enforcement, they will store the plaintext versions of the messages that the users sent using the &amp;lsquo;PGP encrypt&amp;rsquo; checkbox to harvest addresses.</description>
+    </item>
+    
+    <item>
+      <title>Monero FAQ</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/monero/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/monero/faq/</guid>
+      <description>Monero FAQ How do I safely route my coins? Exchange -&amp;gt; Monero wallet (on Tails or Whonix) -&amp;gt; Destination
+More details in the following posts: 1, 2
+My vendor only accepts Bitcoin, what do I do? Monero wallet -&amp;gt; Exchange service -&amp;gt; Destination or Monero wallet -&amp;gt; Exchange service -&amp;gt; Bitcoin wallet -&amp;gt; Destination
+Use an instant exchange service over Tor to anonymously convert your Monero into Bitcoin.
+Avoid sending directly from an exchange service to the destination if your order has a short timeout.</description>
+    </item>
+    
+    <item>
+      <title>Converting Coins</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/converting/converting_coins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/converting/converting_coins/</guid>
+      <description>Converting your coins Converting your coins is a very straight forward process. The goal for everyone should always be to use Monero (XMR) if you cannot start with Monero you can purchase Litecoin or Bitcoin, and swap them for Monero.
+Once you have your starting coins, you can visit [https://kycnot.me] or you can also visit our sister XMR guide. [http://xmrguide25ibknxgaray5rqksrclddxqku3ggdcnzg4ogdi5qkdkd2yd.onion] Both have a list of of exchangers you can use.</description>
+    </item>
+    
+    <item>
+      <title>Creating a database</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/keepassxc/creating_a_databse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/keepassxc/creating_a_databse/</guid>
+      <description>Creating a KeePassXC database Before creating a new database make sure that you have set up and unlocked the persistent volume.  On the welcome screen, click on &amp;lsquo;Create new database&amp;rsquo;. Alternatively, click on &amp;ldquo;Database&amp;rdquo; in the menu bar -&amp;gt; &amp;ldquo;New database&amp;rdquo;.
+Make sure you save the database on the persistent volume. If you fail to do this your database will be gone when you restart Tails.
+  You will now enter your master password.</description>
+    </item>
+    
+    <item>
+      <title>Email</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/email/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/email/</guid>
+      <description>Email Note: Email providers, especially those run by anonymous people (as most .onion email providers are), can go offline at any time. This happened a lot in the past and will happen in the future too. So make sure you always back up the emails you want to keep and do not have important accounts tied to these email addresses (e.g. 2FA for a valuable Bitcoin trading account).  In order to use email securely to communicate you have to pay attention to the following points:</description>
+    </item>
+    
+    <item>
+      <title>Host Operating System</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/host_operatingsystem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/host_operatingsystem/</guid>
+      <description>Impotant information Before we continute it is important to understand why it is important not to use Windows or Mac. Many people assume they can run Whonix in virtual box, and be secure. While most of you would be fine running windows with Tor that is not the purpose of this guide.
+Windows, and Mac are loaded with backdoors, and both are companies that WILL cooperate with law enforcement.
+This guide is written to help keep you safe, and secure.</description>
+    </item>
+    
+    <item>
+      <title>How to buy Monero</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/monero/how_to_buy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/monero/how_to_buy/</guid>
+      <description>How to Buy Monero Peer-to-peer
+   Service Notes     Local Monero similar to localbitcoins. cash in mail, bank transfer, SEPA, revolut, others   Bisq decentralized exchange, BTC/XMR pair   OpenBazaar     Exchanges
+   Website KYC Fiat gateway Trading pairs Notes     Kraken Yes Yes: USD, EUR BTC, EUR, USD SEPA deposits are free   Binance Yes Yes* BTC, ETH, BUSD, USDT *Binance offers a wide range of fiat deposit options, but does not offer XMR directly for fiat.</description>
+    </item>
+    
+    <item>
+      <title>How to verify an onion</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/how-to-verify-an-onion/verify_onion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/how-to-verify-an-onion/verify_onion/</guid>
+      <description>How to verify an onion address Verifying onions. It&amp;rsquo;s such an important thing yet so many people don&amp;rsquo;t know how to do it properly. Always, regardless of where you get the onion from take the time to verify it. You never know when you have a typo, or a simple error. Taking the 10 seconds to verify can save your coins from falling to a phisher.
+Darkfail has a great tool to help you do it, but no one resource should be blindly trusted.</description>
+    </item>
+    
+    <item>
+      <title>Important tips regarding Bitcoin</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/important_tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/important_tips/</guid>
+      <description>Important tips regarding Bitcoin  SAVE YOUR ELECTRUM SEED. Write it down on a sheet of paper, in a text file and/or remember it. Just make sure that you still have access to it if you loose your Tails USB stick. Then you will always be able to recover all your bitcoins. Do I have to do something in order to receive bitcoins? No, you just need to send the bitcoins to one of the addresses under the &amp;ldquo;Addresses&amp;rdquo; tab.</description>
+    </item>
+    
+    <item>
+      <title>Importing a public key</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/importing_a_public_key/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/importing_a_public_key/</guid>
+      <description>Importing a public key To be able to send someone an encrypted message (e.g. your address to a vendor), you need their public key. In order to get a vendor&amp;rsquo;s public key you have to visit his profile and look out for a link that is named like &amp;ldquo;PGP key&amp;rdquo; or &amp;ldquo;Vendor public key&amp;rdquo;. Sometimes it is also featured directly on the vendor&amp;rsquo;s profile page.
+A public key looks like this:</description>
+    </item>
+    
+    <item>
+      <title>Installing Host OS</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/whonix/installing_the_host_os/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/whonix/installing_the_host_os/</guid>
+      <description>Installing the host OS To be able to run Whonix, you must first choose and install the host OS, on which you will later run Whonix. Like a program that you run on an OS, only that the program in this case is a full OS itself.
+As mentioned at the beginning, if you are not that tech-savvy you should use Manjaro, Debian, or Linux Mint. Just follow these instructions for Debian, or these for manjaro and these When installing make sure you are fully encrypting your device or you&amp;rsquo;re not securing your host OS!</description>
+    </item>
+    
+    <item>
+      <title>Installing Litecoin in Tails</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/litecoin/litecoin_tails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/litecoin/litecoin_tails/</guid>
+      <description>Installing Litecoin in Tails   To start make sure you have persistent volume and dot files enabled. If you do not have both setup and enabled make sure you do a reset after enabling them.
+  Next we need to download the Linux app image from https://electrum-ltc.org/    Once the download has finished make sure you move the app image file to either Tor Browser (Persistent) Or your Persistent folder.</description>
+    </item>
+    
+    <item>
+      <title>Installing on Whonix</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/openbazaar/installing_on_whonix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/openbazaar/installing_on_whonix/</guid>
+      <description>Installing on Whonix To use OB on Whonix, do the following steps on the Whonix Workstation. Open the Konsole by double-clicking on the icon called &amp;ldquo;Konsole&amp;rdquo; on your Workstation desktop. Then enter the following command (you can copy it and paste it into the terminal / konsole by doing right-click -&amp;gt; &amp;ldquo;Paste&amp;rdquo;):
+sudo apt-get update &amp;amp;&amp;amp; sudo apt-get dist-upgrade -y This makes sure that all your software is up to date.</description>
+    </item>
+    
+    <item>
+      <title>Installing Qubes</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/qubes/installing_qubes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/qubes/installing_qubes/</guid>
+      <description>Installing Qubes Download and Burn the Installation Media
+ Go to qubes-os{dot}org and download the latest available ISO Burn the ISO to a USB Boot up the installation USB on your computer of choice  Go through the Qubes Installation
+ It is highly recommended to follow DoD data destruction standards before installing Qubes to a storage device. Upon boot, select Test Media and Install Qubes OS X.X.X Select your language and keyboard layout Under system, select the Installation Destination and leave it on auto configuration unless you require specific partioning.</description>
+    </item>
+    
+    <item>
+      <title>Installing Tails</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/installing_tails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/installing_tails/</guid>
+      <description>Installing Tails Tails has very detailed guides that will walk you through the entire installation process.
+Click here to install from windows
+Click here to install from MacOS Click here to install from Linux
+Note: if you use another keyboard layout than the default American one, you need to change it on the Tails greeting screen. Just click on the drop down list on the bottom right and scroll through the list.</description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/javascript/</guid>
+      <description>Javascript warnings If you have javascript on you have probably gotten a warning on a few different sites by now. Javascript is not naturally dangerous, but it can be used in different situations to deanonymize who you are.
+Again this is why we say keep your darknet activities, and clearnet completely separate. Certain websites can use javascript to see what your real IP address is behind tor.
+Disabling javascript Note: You will need to do this everytime you restart tails!</description>
+    </item>
+    
+    <item>
+      <title>Multisignature (Multisig)</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/types-of-markets/multisig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/types-of-markets/multisig/</guid>
+      <description>Multisignature (Multisig) Markets For the sake of keeping this simple we are going to be talking mostly about 2/3 Multisig. The number simply refers to the number of keys that are required. So what is multisig? Multisig stands for multi-signature. This means that multiple approvals (signatures) are needed before a transaction is confirmed.
+Although already present in other industries, the concept was first applied to Bitcoin addresses in 2012, which led to the creation of multisig wallets and even pure multisig markets like for example Hansa, CGMC, Cannahome or Versus.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/appendix/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/appendix/resources/</guid>
+      <description>Resources The services listed here are for you to use at your own risk. Most are widely used and trusted, but you should never blindly trust any service.
+   Service name Description of service     Erowid Erowind is a service focused on education, and harm reduction. Click here for other harm reduction resources.   Dread Dread is a darknet Reddit style forum.   Recon Recon is a darknet market, and vendor search engine.</description>
+    </item>
+    
+    <item>
+      <title>Stealth</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/shipping/stealth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/shipping/stealth/</guid>
+      <description>Stealth Stealth is important to get your ordered product to your front door. It is mainly a vendor topic (because they have to package the order) but you have to pay attention to it too, in order to avoid getting into legal trouble because you chose a vendor who is known for his bad stealth.
+The important difference between stealth and decoy is that stealth is used to make the pack appear as normal as possible and also conceal the smell of the drugs.</description>
+    </item>
+    
+    <item>
+      <title>Tails I2P</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/i2p/tails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/i2p/tails/</guid>
+      <description>Installing I2P These instruction will walk you through how to install I2P on Tails. To start make sure the version of tails you are running is up to date.
+Download the script/files from Dread at http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/i2p
+ Read the instructions from the README file.  &amp;mdash;&amp;ndash;BEGIN PGP SIGNED MESSAGE&amp;mdash;&amp;ndash;
+Hash: SHA512
+SHA256sums: 4e301a269ffc6908f811187341b3357f785105dc07777562af2cc6aa8bc57651 README.txt 2822808637d1c0f4539347422384c54803b2db465d9a934f74fe122ee52def13 disable_i2p.sh 9202b1f757964cc0a55530907534d87b92c9e41c8995f7bec16762c4fa88c691 enable_i2p.sh 87fbe499bdb58aa6b9d102edd4131499eecbf8609e2451ab3e9709fdaafb482d install_i2pd.sh 363dc450bfaf7158cf8aaf05fbdf85779385f22244efdb3b79caf58bf2b3098f tails-create-netns-i2p 02f547e68cd04f17822c06e6ea7a9c14b2f32dbf88d7b19224ef20d5d386fc66 tails_i2pd_v0.1.tar.xz
+SHA512sums: f45ac974b1cde8dd58332bbdd240949ca3c4f9eca83a6cfdcd2aeaf55d0d7908068c190d0fe45efb6affdb159f2c47cfa4bd88db836ec58c71c7d0f1e3fe6c5b README.txt 375a7e3b21ceb1c75a698bd47b6eabd75440b601bbf42c7975a3734385b414dc022f3402607b857133a87421d607afbcec44aa3644aaacaff662f1370b107b92 disable_i2p.sh f5400b6dab69e4ed54739389a92a011ffcea5798dd36b280229c45402acc8b53e364a8201d3aaa68537d7648b5dc091efafea18e13cef0af6d853f8fe39d3d6d enable_i2p.</description>
+    </item>
+    
+    <item>
+      <title>Android I2P</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/i2p/androidi2p/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/i2p/androidi2p/</guid>
+      <description>Android Setup - Easy While it is possible to run I2P on Android devices, this method is only recommended if you are running Graphene OS or do not have the ability to use any other setup methods.  Prerequesites  Install F-Droid app store Install InvZible Pro from F-Droid - Routes traffic through TOR, prevents DNS leakage through DNSCRYPT, and provides access to I2P sites (eepSites) with Purple I2P. Install Fennec F-Droid from F-Droid - Acts as a hardened web browser for browsing I2P sites (eepSites)  Once the required applications have been installed begin by opening InvZible Pro, once opened complete the initial setup, provide relevant permissions, and disable battery optimizations.</description>
+    </item>
+    
+    <item>
+      <title>Choosing a Darknet Market</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/choosing_a_market/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/choosing_a_market/</guid>
+      <description>Choosing a Darknet Market Choosing a market can be very overwhelming. More and more markets come out everyday. It is important to do your own homework about different markets, and vendors. Making constant posts on /d/DarknetMarkets asking &amp;ldquo;Which market is the best right now?&amp;rdquo; will just leave you getting results from market shills or others trying to phish you. Instead you can check out the Superlist It has a lot of different markets that have been around for some time, and have shown to be more reliable.</description>
+    </item>
+    
+    <item>
+      <title>Customizing the settings</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/openbazaar/customizing_the_settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/openbazaar/customizing_the_settings/</guid>
+      <description>Customizing the settings The last step you have to take in order to finish your OB setup is customizing the settings a little bit. To get there go to your &amp;ldquo;Home&amp;rdquo; tab and click on the &amp;ldquo;Customize&amp;rdquo; button. Then switch to the &amp;ldquo;General&amp;rdquo; tab located on the left side and set the option &amp;ldquo;Display Mature Content&amp;rdquo; to &amp;ldquo;Yes&amp;rdquo;. Click on the &amp;ldquo;Save&amp;rdquo; button again.
+Then jump to the &amp;ldquo;Store&amp;rdquo; tab and set the option &amp;ldquo;Store&amp;rdquo; to &amp;ldquo;Off&amp;rdquo; since you are not a vendor and want to keep your attack surface as low as possible.</description>
+    </item>
+    
+    <item>
+      <title>Encrypting a message</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/encrypt_a_message/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/encrypt_a_message/</guid>
+      <description>Encrypting a message with PGP You must always encrypt sensitive information yourself. Never trust a market to do it for you.  Tails You first need to import the public key of the user (e.g. a vendor) that you want to message, so you can encrypt messages that you want to send to him.   First open Kleopatra. Click Notepad in Kleopatra Type or paste your message into the text area Now click the Recipients tabs    Uncheck sign as If you want to be able to read this message in the future make sure you check &amp;ldquo;Encrypt for me&amp;rdquo; and select the name of your key.</description>
+    </item>
+    
+    <item>
+      <title>Escrow</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/types-of-markets/escrow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/types-of-markets/escrow/</guid>
+      <description>Escrow In standard escrow the market holds the money during the purchase. They are typically the most common types of market you will find. You send your coins to the market controlled wallet. If you received your order you tell the market to finalize your order and give the vendor your money.
+Be careful: the orders finalize after some time automatically, in case you forgot to do it manually and so that the vendor has not to wait ages for his money.</description>
+    </item>
+    
+    <item>
+      <title>How to buy Bitcoin (BTC)</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/how_to_buy_bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/how_to_buy_bitcoin/</guid>
+      <description>How to buy bitcoins The best method to buy btc is to not reveal your identity. Unfortunately most major btc exchanges require ID, or ones that will keep you anonymous have very high fees. If you have to use your ID, or are just buying with a card that is attached to your real identity it is okay. We will be covering how to break the chain of custody to your identity by converting to Monero later on.</description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/mobile/mobile_guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/mobile/mobile_guide/</guid>
+      <description>Getting started Before we begin remember this guide should only be used if you have no other options! Mobile is still not good for your opsec!  Installation Graphene has two officially supported installation methods, this guide will cover the recommended method.
+ WebUSB-based Installer - recommended for most users Command Line Install - recommended for advanced users  Prerequisites Install an officially supported operating system, you should have at least 4GB of free memory available and 32GB of free storage.</description>
+    </item>
+    
+    <item>
+      <title>Installing Monero</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/monero/installing_monero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/monero/installing_monero/</guid>
+      <description>Installing Monero Because of the constant changes and updates, we recommend following our sister Monero Guide which is always kept up to date.
+You can find it here: http://xmrguide25ibknxgaray5rqksrclddxqku3ggdcnzg4ogdi5qkdkd2yd.onion
+It will walk you through everything from different wallets you can install, to how to use them!</description>
+    </item>
+    
+    <item>
+      <title>Installing Whonix</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/whonix/install_whonix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/whonix/install_whonix/</guid>
+      <description>Installing Whonix Installing Before you install Whonix, a small note that it consists of two different OS: the Gateway and the Workstation. When you set everything up you do all your work (like using the Tor browser, decrypting PGP messages, . . .) on the Workstation. The Workstation contacts the Gateway in the background (i.e. you do not have to do anything) and sends the entire internet traffic that you produce on the Workstation to it.</description>
+    </item>
+    
+    <item>
+      <title>Non arriving Packages</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/shipping/non_arriving_packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/shipping/non_arriving_packages/</guid>
+      <description>Non arriving packages General Keep in mind that some vendors mark your order shipped before they actually ship it (for security reasons and/or because they are lazy). So do not expect that they actually shipped your order out when it got marked shipped.
+There can also be a lot of other reasons why your package is late (e.g. weather, postal strike, . . .), so please be patient.
+Testing if your mail gets intercepted To test if your mail gets intercepted you can mail yourself something (preferably from a post office as far away from you as possible).</description>
+    </item>
+    
+    <item>
+      <title>Opening a database</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/keepassxc/opening_a_database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/keepassxc/opening_a_database/</guid>
+      <description>Opening a KeePassXC database If the program isn&amp;rsquo;t already opened go to &amp;ldquo;Applications&amp;rdquo; -&amp;gt; &amp;ldquo;Accessories&amp;rdquo; -&amp;gt; &amp;ldquo;KeePassXC&amp;rdquo; to start KeePassXC.
+Click on &amp;ldquo;Open existing database&amp;rdquo;. Then navigate to the directory where you stored your database, and double click on the .kdbx file.
+Now enter you master password and click &amp;ldquo;Ok&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Practice verifying</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/how-to-verify-an-onion/practice_verifying/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/how-to-verify-an-onion/practice_verifying/</guid>
+      <description>Practice verifying Lets practice so you can see what it will look like when you verify an onion!
+PGP key First import the bibles pgp key from the /pgp.txt page
+Your onion should look like this: http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/mirrors.txt
+Note The first time you import a new pgp key it is good practice to compare the key to multiple places. Most markets will also post their pgp key on the subdread, or you can compare them with other reputable services.</description>
+    </item>
+    
+    <item>
+      <title>Setup Gajim&#43;OMEMO</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/jabberxmpp/gajim&#43;omemo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/jabberxmpp/gajim&#43;omemo/</guid>
+      <description>Starting off In this guide we will cover using Gajim, and OMEMO. This is the recommended way to communicate with XMPP clients. If you already have an XMPP account, like one you use in Pidgin. We will cover how to properly move it to Gajim, and use OMEMO. It is important to note. Like OTR if the person you are trying to communicate with does not have OMEMO installed you will not be able to have a encrypted conersation with them.</description>
+    </item>
+    
+    <item>
+      <title>Setup Pidgin&#43;OTR</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/jabberxmpp/setup-pidgin&#43;otr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/jabberxmpp/setup-pidgin&#43;otr/</guid>
+      <description>Jabber(XMPP) Setup For this example setup we will be using The Calyx Institute. You can read about their public jabber servers, Data retention policy, and other information here
+You do not have to use Calyx Institute if you do not want to. Check this list for some other options. (Their settings will be different from this guide)
+How to configure Pidgin and OTR Plugin First open Pidgin by going to Applications (at the top left of your screen) -&amp;gt; Internet -&amp;gt; Pidgin Internet Messenger.</description>
+    </item>
+    
+    <item>
+      <title>Adding entries</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/keepassxc/adding_entries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/keepassxc/adding_entries/</guid>
+      <description>Adding entries Let us say you want to add the login credentials of a market account. To do that, click on &amp;ldquo;Entries&amp;rdquo; -&amp;gt; &amp;ldquo;Add new entry&amp;rdquo;. Set the title to the name of the market, and the username to your market username. To generate a password, click on the button located on the right side. To see the password click on the button right below the icon.
+It is recommended to also click on the button called like &amp;ldquo;/*_&amp;hellip;&amp;rdquo; which is on the right of the button &amp;ldquo;0-9&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Creating Monero Wallets</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/monero/creating_monero_wallets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/monero/creating_monero_wallets/</guid>
+      <description>Creating Monero Wallets Because of the constant changes and updates, we recommend following our sister Monero Guide which is always kept up to date.
+You can find it here: [http://xmrguide25ibknxgaray5rqksrclddxqku3ggdcnzg4ogdi5qkdkd2yd.onion]
+It will walk you through everything from different wallets you can install, to how to use them!</description>
+    </item>
+    
+    <item>
+      <title>Crypto Closing Words</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/converting/crypto_closing_words/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/converting/crypto_closing_words/</guid>
+      <description>Crypto Closing Words After you convert make sure you use a new wallet that has not ever been tied to your identity. Wallets that send coins to markets can be labeled as “hot” you don’t want the two wallets to ever interact.
+If you started with Bitcoin, and need to pay in bitcoin here is an example of the path you follow: BTC Exchange-&amp;gt; BTC Wallet 1 -&amp;gt; Convert to XMR -&amp;gt; XMR Wallet-&amp;gt; Pay for your goods.</description>
+    </item>
+    
+    <item>
+      <title>Direct Deal(DD)</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/types-of-markets/direct_deal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/types-of-markets/direct_deal/</guid>
+      <description>Direct Deal/Finalize Early (FE) Vendors that have been around a very long time sometimes will join Direct deal markets, or have FE status granted to them on an escrow market. Typically these vendors are considered more &amp;ldquo;trust worthy&amp;rdquo;
+Most markets now have rules in place that forbid vendors from requesting you FE them if they have not been granted that status. If you get a message asking you to FE from a vendor this should be a big red flag for you.</description>
+    </item>
+    
+    <item>
+      <title>How DDF/DNL were hijacked</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/how-to-verify-an-onion/how_ddf_dnl_were_hijacked/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/how-to-verify-an-onion/how_ddf_dnl_were_hijacked/</guid>
+      <description>How Darkfail and Darknetlive were hijacked Before you read DDF and DNL and others are great resources! This should explain the level some phishers will go to try and steal your coins. The users that blindly used these sites could have easily protected their coins by verifying!  If the users that fell for this trap had taken the time to verify their coins would be safe today. Instead many lost all their coins.</description>
+    </item>
+    
+    <item>
+      <title>Important settings and tips</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/important_settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/important_settings/</guid>
+      <description>Important settings and tips   Every time you start the Tor browser, you have to set the security slider to safest. This disables JavaScript (a programming language that websites can use to de-anonymize you) by default and enables some more security features.
+  If you use clearnet websites that require JavaScript (like reddit.com if you want to post, comment or vote), change the NoScript appearance so you can easily allow and disallow the scripts that you need as</description>
+    </item>
+    
+    <item>
+      <title>Starting and shutting down Whonix</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/whonix/starting_and_shutting_down/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/whonix/starting_and_shutting_down/</guid>
+      <description>Starting and shutting down Whonix Starting First, start the Whonix-Gateway. Select the Whonix-Gateway in VirtualBox, and hit the big Start button or double click on the entry in the list on the left.
+Tip: enlarge the Gateway and Workstation windows after you started them for improved usability.
+Once the desktop environment has loaded (i.e. you see the desktop), open the terminal by double clicking on the terminal-shortcut on the desktop and change your password by hitting ENTER after typing</description>
+    </item>
+    
+    <item>
+      <title>Table of Contents</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/appendix/contents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/appendix/contents/</guid>
+      <description>Index Use this page if you are looking for a page to go over again, or to help reference. You can scroll through until you find the page you are looking for. Or you can hit control+f and search for it in the page. Click the link to go to that chapter.
+B Bitcoin BTC
+C Converting Coins
+E Email
+Electrum Bitcoin
+Electrum Litecoin
+G Gajim
+GrapheneOS
+H Harm Reduction</description>
+    </item>
+    
+    <item>
+      <title>Tumbling</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/tumbling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/tumbling/</guid>
+      <description>Tumbling Tumbling is a service that has worked well in the past. With the rise of the darknet, tumbling has become more of an outdated service. Many tumblers risk your opsec, or just scam you of your coins. Tumbling your coins is still better than not tumbling them, but they will not protect you. This cannot be stressed enough, chain anylsis can very easily track your coins back to you even if you use a tumbler.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu I2P</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/i2p/ubuntui2p/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/i2p/ubuntui2p/</guid>
+      <description>Linux (Ubuntu) Setup - Intermediate This works for Ubuntu (Bionic 18.04 and newer), Linux Mint (Tara19 or newer), and their derivatives.
+Prerequesites
+ Ubuntu 18.04 or newer OpenSSL 1.1 or newer Basic Terminal Skills  Open a terminal (Ctrl Alt T) and enter
+sudo apt-add-repository ppa:i2p-maintainers/i2p This command will add the PPA to the /etc/apt/sources.list.d/ directory and fetch the GPG key that the repository has been signed with. The GPG key ensures that the packages have not been tampered with since being built.</description>
+    </item>
+    
+    <item>
+      <title>Using pidgin&#43;OTR (XMPP)</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/jabberxmpp/using-pidgin&#43;otr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/jabberxmpp/using-pidgin&#43;otr/</guid>
+      <description>Chatting with someone After setting up your jabber account to chat with someone you will need to add them by going to: Buddies &amp;gt; Add Buddy (close and re-open all the Pidgin windows if the &amp;ldquo;Add Buddy&amp;rdquo; selection is disabled).
+Now enter the username the the other person gave you. I could for example be username99@jabber.calyxinstitute.org. Optionally you can also set an alias for him in the line below which gets shown in the chat window when you chat with that person (instead of the long username which you previously entered).</description>
+    </item>
+    
+    <item>
+      <title>Verifying a message</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/verifying_a_message/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/verifying_a_message/</guid>
+      <description>Verifying a message with PGP Verifying messages is commonly used to check the authenticity of market links. Markets publish signed messages containing links to their market. If you have the market&amp;rsquo;s public key you can use it to verify that the message was created by the market and that the links are legitimate.
+Markets, vendors and moderators will sometimes sign announcements or warnings. You can also use this to verify those.</description>
+    </item>
+    
+    <item>
+      <title>Accessing secrets</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/keepassxc/accessing_secrets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/keepassxc/accessing_secrets/</guid>
+      <description>Accessing secrets Right click on the entry you want to use (e.g. the one named after the market on which you want to login). This will open up a context menu and allow you to copy the username or password to the clipboard.
+ Now all you have to do is go to the market site (e.g. registration page or login page) and paste that password there. Your clipboard will automatically clear after 10 seconds, so be quick.</description>
+    </item>
+    
+    <item>
+      <title>Choosing a vendor</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/choosing_a_vendor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/choosing_a_vendor/</guid>
+      <description>Choosing a vendor Choosing a vendor to buy your desired product from is an important step and you should take your time for that to avoid trouble later. It can mean the difference between you not getting the product and loosing your money and a successful and flawless purchase.
+Tips When you are a new buyer it is best to stick to already established ones because this usually means that you are less likely to run into issues and the vendor knows what he is doing.</description>
+    </item>
+    
+    <item>
+      <title>Decrypting a message</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/decrypting_a_message/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/decrypting_a_message/</guid>
+      <description>Decrypting a message Tails  First open Kleopatra and click Notepad Copy and paste the PGP message into the text field Click Decrypt/Verify    Now the decrypted message should appear in the text field Whonix Open GPA and select clipboard Paste your encrypted message in the text area. Select the decrypt option.
+ You will be prompted to enter in your password for your key. Once you enter your passwod you will see the decrypted message.</description>
+    </item>
+    
+    <item>
+      <title>Drop</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/shipping/drop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/shipping/drop/</guid>
+      <description>Drop Regardless of where you choose to get your order delivered to, always have a &amp;ldquo;clean&amp;rdquo; house when you are expecting a package. That means do not have any illegal or suspicious things (like a bong) in your house or any other locations tied to your identity. That is because if something goes wrong, your properties will get searched. If law enforcement then finds illegal things, it is much harder to argue in front of the court that you are a perfectly law abiding citizen who knows nothing about the drugs that someone sent to his address.</description>
+    </item>
+    
+    <item>
+      <title>Performance tips</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/whonix/performance_tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/whonix/performance_tips/</guid>
+      <description>Performance tips Running essentially three operating systems (OS) at the same time can take up some resources from your computer. Especially if you are all doing it from a USB stick and not an internal SSD for example. So in the following some tips which you can follow if you want to improve the performance of your Whonix setup. If everything is running smoothly, you do not need to follow them (if it is not broke, do not fix it).</description>
+    </item>
+    
+    <item>
+      <title>Qubes/Whonix I2P</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/i2p/qubeswhonixi2p/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/i2p/qubeswhonixi2p/</guid>
+      <description>Whonix on Qubes Setup - Advanced Works on Qubes OS 4.1 and newer, Whonix 16 or newer Prerequisites
+ Install Qubes OS with Whonix templates  Setup a Whonix work station with the appropriate persistence options enabled (Without persistence correctly set up you will lose all progress on virtual machine restart) All following commands should be entered into your whonix workstation terminal. Add the I2P signing key to your Qubes install If you are using Whonix-Workstation ™ (anon-whonix), run</description>
+    </item>
+    
+    <item>
+      <title>Setting up the persistence volume</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/setting_up_persistence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/setting_up_persistence/</guid>
+      <description>Creating and configuring the Persistent Storage Normally Tails forgets every change you made on it when you reboot (that is why it is called amnesiac). However when you want to order from DNMs you need to save some files. This is possible by setting up the persistence volume which encrypt, and store your data after restarting. Tails uses LUKS or, Linux Unified Key Setup to encrypt your data, if you want to know more about LUKS you can read about it here</description>
+    </item>
+    
+    <item>
+      <title>Setting up your wallet (BTC)</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/setting_up_your_wallet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/setting_up_your_wallet/</guid>
+      <description>Setting up your wallet (BTC) Note: Do not use Electrum wallets with two-factor authentication (2FA). You may think that 2FA for markets is good (which it is) so it must be good for Electrum on Tails too. No. It requires you to bring your smartphone into DNM activities as well as installing google apps on it which is the last thing you want for an anonymous DNM wallet. Plus your wallet will be secure enough if you keep your seed secure (e.</description>
+    </item>
+    
+    <item>
+      <title>Controlled Delivery (CD)</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/shipping/controlled_delivery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/shipping/controlled_delivery/</guid>
+      <description>Controlled Delivery (CD) What is a Controlled Delivery? This is an attempt to accept a package containing drugs to obtain a solid reason for a search of your home to be conducted. They get you to accept the package and they believe that this is reasonable cause to believe you ordered the package and knew it was coming. Just because a package requires a signature does not mean it is in anyway a CD.</description>
+    </item>
+    
+    <item>
+      <title>Sending Bitcoin</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/sending_bitcoins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/sending_bitcoins/</guid>
+      <description>Sending Bitcoin This chapter deals with sending your bitcoins from the source you got them (e.g. a Bitcoin exchange) to the final destination (a DNM). Unfortunately it is not as easy as sending them straight to your market deposit address because exchanges have banned and flagged accounts in the past that did that.
+The Path Note: as described earlier, if you use Electrum an attacker can see what addresses belong to what wallet and which IP address regularly checks the balance of these addresses.</description>
+    </item>
+    
+    <item>
+      <title>Types of Scams</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/types_of_scams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/types_of_scams/</guid>
+      <description>Types of Scams Vendor Scams    Scam Field Scam Description How To Spot It How To Prevent/Fix It     Feedback Vendor pays users to purchase items, never delivers them but users leave positive feedback to make it look like they were legit sales (to prevent the feedback manipulation being tracked back to the vendor). Multiple feedback that have similar qualities &amp;amp; spelling. Check the forums, reddit, and any vendor review threads for the vendor.</description>
+    </item>
+    
+    <item>
+      <title>Upgrading</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/upgrading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/upgrading/</guid>
+      <description>Upgrading To upgrade Tails just follow the guide on the Tails website.
+Does it say there is not enough space? Then you have to do a manual upgrade. If you wonder why there is not enough space on your large USB stick, here and explanation.</description>
+    </item>
+    
+    <item>
+      <title>Backing up</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/backing_up/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/backing_up/</guid>
+      <description>Backing up It is crucial that you back up your data. Not just the data you have on Tails but all your other documents too. However this chapter will only deal with how to back up your persistence data which is stored on Tails. You probably do not want to loose access to your market account and wallet with all your money in it, so you need to do the following steps.</description>
+    </item>
+    
+    <item>
+      <title>How to be a good buyer</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/how_to_be_a_good_buyer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/how_to_be_a_good_buyer/</guid>
+      <description>How to be a good buyer Being a good customer is just as important as selecting a good vendor. So here are some tips that will help along a smooth transaction.
+  Always order sober. You will make mistakes if logging into a market while being high.
+  Always read a vendors page completely before ordering. They may have special requirements to be met. Most questions for them can usually be answered this way.</description>
+    </item>
+    
+    <item>
+      <title>Monitored Delivery</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/shipping/monitored_delivery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/shipping/monitored_delivery/</guid>
+      <description>Monitored Delivery What is a Monitored Delivery? Unlike a controlled delivery, a monitored delivery is a much rarer practice and occurs when law enforcement knowingly delivers drugs to you and then puts you under surveillance to gain evidence to further their investigation of your illegal activities in order to build a bigger case against you. This can continue over several months. That way law enforcement is able to build strong cases against suspects even if their OpSec is tight.</description>
+    </item>
+    
+    <item>
+      <title>Signing a message</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/signing_a_message/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/signing_a_message/</guid>
+      <description>Signing a message with PGP This is not for encrypting your address or other private messages.  You can sign a message to prove that you created it. Anyone that has your public key can verify that you signed it. It is usually not necessary to sign messages as a normal DNM buyer but if you need to do it, here is how.
+Tails  First open Kleopatra, and click Notepad In the text field type your message you want to sign Click the Recipients tabs Check Only sign as: Type your account your key you want to sign with Uncheck encrypt for me Uncheck encrypt for others Click Sign Notepad Click back to your Notepad tab  Now the content of the clipboard should look like this:</description>
+    </item>
+    
+    <item>
+      <title>Transactions not getting confirmed</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/transactions_not_getting_confirmed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/transactions_not_getting_confirmed/</guid>
+      <description>Transactions not getting confirmed Bitcoin transactions become &amp;ldquo;confirmed&amp;rdquo; when miners accept to write them in the Bitcoin blockchain. In general, the speed of confirmation depends on the fee you attach to your transaction; miners prioritize transaction that pay the highest fees. Another reason could be that the Bitcoin network is overloaded at the moment. Sometimes a lot of unconfirmed transaction rack up (tens of thousands) these have to get processed, which will take a while.</description>
+    </item>
+    
+    <item>
+      <title>Getting a lawyer</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/getting_a_lawyer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/getting_a_lawyer/</guid>
+      <description>Getting a lawyer If you get in legal trouble Note: this mainly applies to americans. In other countries, such as the UK it can be different and for example remaining silent could be used against you. So make sure you research the legal situation in your country on your own too.  If you ever encounter law enforcement due to serious issues (e.g. a controlled delivery) say nothing. Shut the fuck up.</description>
+    </item>
+    
+    <item>
+      <title>Love Letter</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/shipping/love_letter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/shipping/love_letter/</guid>
+      <description>Love letter A &amp;ldquo;love letter&amp;rdquo; is a playful name for a letter from the postal services which basically states:
+ We seized your goodies, but don&amp;rsquo;t have the time/money to build up a case against you; and/or you didn&amp;rsquo;t order enough for us to be too concerned. You lucked out bastard. Don&amp;rsquo;t do it again, we are watching your address. Sincerely, LEO/Post Office/Postal Inspector
+ International Seizure Letters Customs agencies around the world, including US Customs, frequently send &amp;ldquo;love letter&amp;rdquo; seizure notices to recipients of international mail with small amounts of suspected illegal drugs inside.</description>
+    </item>
+    
+    <item>
+      <title>Optional: Install Debian Packages on Boot</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/install_packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/install_packages/</guid>
+      <description>Optional: Install Debian Packages on Boot This is an optional part if the DNM bible. Please only follow the instructions here when you actually need to install further packages. It is not necessary to install additional software because Tails already has everything you need installed. Any additional software is a security risk. Tails has a facility for automatically installing Debian packages on boot up.
+Boot Tails.
+Enable persistence and assign an administration password.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/harm-reduction/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/harm-reduction/resources/</guid>
+      <description>Resources Take some time to read though some of these resources. You can learn about just about any drug, the science behind them, get questions from real experts. Or if you just need someone to help you through a bad trip. All of it can be found on here.
+Doses and recovery position If this is your first time trying a new drug, or if you don&amp;rsquo;t have a tolerance anymore.</description>
+    </item>
+    
+    <item>
+      <title>Labs</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/harm-reduction/labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/harm-reduction/labs/</guid>
+      <description>Labs On this page you can find some labs and drug test results. Want to know the exact breakdown of what&amp;rsquo;s in your goodies? Then this is the resource for you. If you&amp;rsquo;re buying bulk, or planning to resell please especially take the time to get a lab test done so you don&amp;rsquo;t go accidentally killing someone!  Energy Control International https://energycontrol-international.org/
+We are a group of like minded people regardless of whether we are drug users or not, concerned about the problems related to drug use in recreational settings and in society.</description>
+    </item>
+    
+    <item>
+      <title>Suicide Hotlines</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/harm-reduction/suicide_numbers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/harm-reduction/suicide_numbers/</guid>
+      <description>Suicide Hotlines We all have shitty times in our lives. If you are in need of real help, or just need someone to talk to, please try calling one of these numbers.
+This list is from https://www.reddit.com/r/SuicideWatch/wiki/hotlines
+Argentina Centro de Asistencia al Suicida: https://www.casbuenosaires.com.ar/ayuda 135 (CABA &amp;amp; GBA), (011)5275-1135 (Todo El País/Nationwide)
+Australia 13 11 14 https://www.lifeline.org.au/crisis-chat/
+Austria 142, Youth 147 Online: http://www.onlineberatung-telefonseelsorge.at
+Belgium Dutch: 1813 https://www.zelfmoord1813.be/ French: 0800 32 123 http://www.</description>
+    </item>
+    
+    <item>
+      <title>Making a purchase</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/making_a_purchase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/making_a_purchase/</guid>
+      <description>Making a purchase Do you have PGP, Coins and your market account set up? Good, now go back up that data so you do not loose access to your accounts and money.
+Tips Making a purchase is one of the better parts of all of this. Before you do there are some things that should be considered.
+  First timers and noobs should stick with domestic orders to get a feel for how his works.</description>
+    </item>
+    
+    <item>
+      <title>Giving Feedback</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/giving_feedback/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/giving_feedback/</guid>
+      <description>Giving Feedback Tips Giving feedback and rating a vendor is just as important as escrow or multi-sig. It is your voice to the vendor and any future patrons of that vendors business. Rating a vendor and leaving feedback should be taken seriously. It&amp;rsquo;s truly the only means of regulating how business is conducted and it&amp;rsquo;s what maintains the purity of products you find on the markets. The combined feedback and ratings left by customers is paramount when choosing a vendor.</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/jabberxmpp/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/jabberxmpp/services/</guid>
+      <description>Here is a list of other well known services you can try out. Make sure you check their configuration for their server names, and port numbers.
+ jabber.calyxinstitute.org creep.im thesecure.biz xmpp.jp jabber.hot-chilli.net jabber.otr.im chinwag.im jabb.im jabberes.org jabb3r.org conversations.im jabber.de kode.im  </description>
+    </item>
+    
+    <item>
+      <title>Got problems?</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/got_problems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/got_problems/</guid>
+      <description>Got Problems? Common issues As mentioned previously, Tails works on almost any computer. So it is possible that your installation will not go as flawlessly as it usually should. However there are many way to solve issues that might come up. Please go through the following options one after another if you have difficulties getting tails on a USB stick or to boot:
+  Did you disable secure boot?</description>
+    </item>
+    
+    <item>
+      <title>IRL OpSec</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/irl_opsec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/irl_opsec/</guid>
+      <description>IRL OpSec General This chapter is about how to keep your OpSec tight in areas that are not primarily related to DNMs. It includes for example reselling (since few of your friends would probably be willing to set up Tails just to communicate with you).
+Keep your mouth shut
+The golden rule is to never tell anybody where you get your products from. Period. No exceptions. Even if a long time friend is nagging you to tell him who you get that dank shit from, do not give in the temptation to tell him about your elaborate DNM setup and how you import drugs in bulk.</description>
+    </item>
+    
+    <item>
+      <title>Uploading images securely</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/removing-exif-data/uploading_images_securely/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/removing-exif-data/uploading_images_securely/</guid>
+      <description>Uploading images securely Images can tell the world a lot of information and can even reveal your true identity although you have followed all other steps in the DNM bible. So it is important to read and follow this chapter too because it can literally mean the difference between freedom and jail.
+Just do give you an example of what basic forensic video/photo software is capable of doing. Now imagine what forensic software on steroids law enforcement can buy with all their money.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/appendix/glossary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/appendix/glossary/</guid>
+      <description>Glossary A Alprazolam (Alp) - A benzodiazepine sold under the brand name Xanax.
+Alt - Alternate account, the term for when a user has two or more active accounts on a site.
+Altcoin - Any cryptocurrency alternative to Bitcoin.
+Amnesiac - &amp;ldquo;Forgetful&amp;rdquo; software that doesn&amp;rsquo;t save data, such as Tails OS.
+Amphetamines - A type of stimulant drug.
+B Bars - A form of drug shape, usually long and thin. Most often used for benzodiazepines.</description>
+    </item>
+    
+    <item>
+      <title>Before you start</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/about/before-you-start/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/about/before-you-start/</guid>
+      <description>Before you start So you are about to read how to commit felonies and reduce the risk of getting caught. It is strongly recommended that anything that could be considered Darknet related you don&amp;rsquo;t do on your normal operating system, or default browser. Keep your darknet activity as far away from your real identity as possible. For example your browser could store the visited sites in his history and somebody else sees it when using your computer.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/appendix/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/appendix/faq/</guid>
+      <description>Frequently Asked Questions Why am I getting Javascript warnings? Read about why here.
+Can&amp;rsquo;t I just use a burner phone instead of a secure OS? No. Cell phones are not secure at all. They have a lot of exploits in them. Go on craigslist/ebay whatever buy a laptop that is a few years old. It does not need to be anything special or expensive.
+Do I really need to convert my coins if I&amp;rsquo;m only buying personal amounts?</description>
+    </item>
+    
+  </channel>
+</rss>

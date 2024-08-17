@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PGP on DNM Bible</title>
+    <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/</link>
+    <description>Recent content in PGP on DNM Bible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating a key pair</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/creating_a_pgp_key_pair/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/creating_a_pgp_key_pair/</guid>
+      <description>Creating a PGP key pair When you create a PGP key pair, it gives you two unique keys: a public key, and a private key. You are to not, at any times, or for any reason, to give anyone your private key. That is for your eyes only. Your public key, however, is able to be given out so others can encrypt messages with your public key, send them to you, and then only YOU can decrypt them with your private key.</description>
+    </item>
+    
+    <item>
+      <title>Importing a public key</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/importing_a_public_key/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/importing_a_public_key/</guid>
+      <description>Importing a public key To be able to send someone an encrypted message (e.g. your address to a vendor), you need their public key. In order to get a vendor&amp;rsquo;s public key you have to visit his profile and look out for a link that is named like &amp;ldquo;PGP key&amp;rdquo; or &amp;ldquo;Vendor public key&amp;rdquo;. Sometimes it is also featured directly on the vendor&amp;rsquo;s profile page.
+A public key looks like this:</description>
+    </item>
+    
+    <item>
+      <title>Encrypting a message</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/encrypt_a_message/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/encrypt_a_message/</guid>
+      <description>Encrypting a message with PGP You must always encrypt sensitive information yourself. Never trust a market to do it for you.  Tails You first need to import the public key of the user (e.g. a vendor) that you want to message, so you can encrypt messages that you want to send to him.   First open Kleopatra. Click Notepad in Kleopatra Type or paste your message into the text area Now click the Recipients tabs    Uncheck sign as If you want to be able to read this message in the future make sure you check &amp;ldquo;Encrypt for me&amp;rdquo; and select the name of your key.</description>
+    </item>
+    
+    <item>
+      <title>Verifying a message</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/verifying_a_message/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/verifying_a_message/</guid>
+      <description>Verifying a message with PGP Verifying messages is commonly used to check the authenticity of market links. Markets publish signed messages containing links to their market. If you have the market&amp;rsquo;s public key you can use it to verify that the message was created by the market and that the links are legitimate.
+Markets, vendors and moderators will sometimes sign announcements or warnings. You can also use this to verify those.</description>
+    </item>
+    
+    <item>
+      <title>Decrypting a message</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/decrypting_a_message/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/decrypting_a_message/</guid>
+      <description>Decrypting a message Tails  First open Kleopatra and click Notepad Copy and paste the PGP message into the text field Click Decrypt/Verify    Now the decrypted message should appear in the text field Whonix Open GPA and select clipboard Paste your encrypted message in the text area. Select the decrypt option.
+ You will be prompted to enter in your password for your key. Once you enter your passwod you will see the decrypted message.</description>
+    </item>
+    
+    <item>
+      <title>Signing a message</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/signing_a_message/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/pgp/signing_a_message/</guid>
+      <description>Signing a message with PGP This is not for encrypting your address or other private messages.  You can sign a message to prove that you created it. Anyone that has your public key can verify that you signed it. It is usually not necessary to sign messages as a normal DNM buyer but if you need to do it, here is how.
+Tails  First open Kleopatra, and click Notepad In the text field type your message you want to sign Click the Recipients tabs Check Only sign as: Type your account your key you want to sign with Uncheck encrypt for me Uncheck encrypt for others Click Sign Notepad Click back to your Notepad tab  Now the content of the clipboard should look like this:</description>
+    </item>
+    
+  </channel>
+</rss>

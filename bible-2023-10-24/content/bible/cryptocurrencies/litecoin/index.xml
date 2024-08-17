@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Litecoin (LTC) on DNM Bible</title>
+    <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/litecoin/</link>
+    <description>Recent content in Litecoin (LTC) on DNM Bible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/litecoin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Installing Litecoin in Tails</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/litecoin/litecoin_tails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/litecoin/litecoin_tails/</guid>
+      <description>Installing Litecoin in Tails   To start make sure you have persistent volume and dot files enabled. If you do not have both setup and enabled make sure you do a reset after enabling them.
+  Next we need to download the Linux app image from https://electrum-ltc.org/    Once the download has finished make sure you move the app image file to either Tor Browser (Persistent) Or your Persistent folder.</description>
+    </item>
+    
+  </channel>
+</rss>

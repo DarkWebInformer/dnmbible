@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Types of market on DNM Bible</title>
+    <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/types-of-markets/</link>
+    <description>Recent content in Types of market on DNM Bible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/types-of-markets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multisignature (Multisig)</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/types-of-markets/multisig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/types-of-markets/multisig/</guid>
+      <description>Multisignature (Multisig) Markets For the sake of keeping this simple we are going to be talking mostly about 2/3 Multisig. The number simply refers to the number of keys that are required. So what is multisig? Multisig stands for multi-signature. This means that multiple approvals (signatures) are needed before a transaction is confirmed.
+Although already present in other industries, the concept was first applied to Bitcoin addresses in 2012, which led to the creation of multisig wallets and even pure multisig markets like for example Hansa, CGMC, Cannahome or Versus.</description>
+    </item>
+    
+    <item>
+      <title>Escrow</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/types-of-markets/escrow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/types-of-markets/escrow/</guid>
+      <description>Escrow In standard escrow the market holds the money during the purchase. They are typically the most common types of market you will find. You send your coins to the market controlled wallet. If you received your order you tell the market to finalize your order and give the vendor your money.
+Be careful: the orders finalize after some time automatically, in case you forgot to do it manually and so that the vendor has not to wait ages for his money.</description>
+    </item>
+    
+    <item>
+      <title>Direct Deal(DD)</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/types-of-markets/direct_deal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/types-of-markets/direct_deal/</guid>
+      <description>Direct Deal/Finalize Early (FE) Vendors that have been around a very long time sometimes will join Direct deal markets, or have FE status granted to them on an escrow market. Typically these vendors are considered more &amp;ldquo;trust worthy&amp;rdquo;
+Most markets now have rules in place that forbid vendors from requesting you FE them if they have not been granted that status. If you get a message asking you to FE from a vendor this should be a big red flag for you.</description>
+    </item>
+    
+  </channel>
+</rss>

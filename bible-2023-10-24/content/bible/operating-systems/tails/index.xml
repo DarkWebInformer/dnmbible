@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tails on DNM Bible</title>
+    <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/</link>
+    <description>Recent content in Tails on DNM Bible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Installing Tails</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/installing_tails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/installing_tails/</guid>
+      <description>Installing Tails Tails has very detailed guides that will walk you through the entire installation process.
+Click here to install from windows
+Click here to install from MacOS Click here to install from Linux
+Note: if you use another keyboard layout than the default American one, you need to change it on the Tails greeting screen. Just click on the drop down list on the bottom right and scroll through the list.</description>
+    </item>
+    
+    <item>
+      <title>Important settings and tips</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/important_settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/important_settings/</guid>
+      <description>Important settings and tips   Every time you start the Tor browser, you have to set the security slider to safest. This disables JavaScript (a programming language that websites can use to de-anonymize you) by default and enables some more security features.
+  If you use clearnet websites that require JavaScript (like reddit.com if you want to post, comment or vote), change the NoScript appearance so you can easily allow and disallow the scripts that you need as</description>
+    </item>
+    
+    <item>
+      <title>Setting up the persistence volume</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/setting_up_persistence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/setting_up_persistence/</guid>
+      <description>Creating and configuring the Persistent Storage Normally Tails forgets every change you made on it when you reboot (that is why it is called amnesiac). However when you want to order from DNMs you need to save some files. This is possible by setting up the persistence volume which encrypt, and store your data after restarting. Tails uses LUKS or, Linux Unified Key Setup to encrypt your data, if you want to know more about LUKS you can read about it here</description>
+    </item>
+    
+    <item>
+      <title>Upgrading</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/upgrading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/upgrading/</guid>
+      <description>Upgrading To upgrade Tails just follow the guide on the Tails website.
+Does it say there is not enough space? Then you have to do a manual upgrade. If you wonder why there is not enough space on your large USB stick, here and explanation.</description>
+    </item>
+    
+    <item>
+      <title>Backing up</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/backing_up/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/backing_up/</guid>
+      <description>Backing up It is crucial that you back up your data. Not just the data you have on Tails but all your other documents too. However this chapter will only deal with how to back up your persistence data which is stored on Tails. You probably do not want to loose access to your market account and wallet with all your money in it, so you need to do the following steps.</description>
+    </item>
+    
+    <item>
+      <title>Optional: Install Debian Packages on Boot</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/install_packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/install_packages/</guid>
+      <description>Optional: Install Debian Packages on Boot This is an optional part if the DNM bible. Please only follow the instructions here when you actually need to install further packages. It is not necessary to install additional software because Tails already has everything you need installed. Any additional software is a security risk. Tails has a facility for automatically installing Debian packages on boot up.
+Boot Tails.
+Enable persistence and assign an administration password.</description>
+    </item>
+    
+    <item>
+      <title>Got problems?</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/got_problems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/tails/got_problems/</guid>
+      <description>Got Problems? Common issues As mentioned previously, Tails works on almost any computer. So it is possible that your installation will not go as flawlessly as it usually should. However there are many way to solve issues that might come up. Please go through the following options one after another if you have difficulties getting tails on a USB stick or to boot:
+  Did you disable secure boot?</description>
+    </item>
+    
+  </channel>
+</rss>

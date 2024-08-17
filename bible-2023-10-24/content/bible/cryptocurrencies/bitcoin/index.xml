@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bitcoin (BTC) on DNM Bible</title>
+    <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/</link>
+    <description>Recent content in Bitcoin (BTC) on DNM Bible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Important tips regarding Bitcoin</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/important_tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/important_tips/</guid>
+      <description>Important tips regarding Bitcoin  SAVE YOUR ELECTRUM SEED. Write it down on a sheet of paper, in a text file and/or remember it. Just make sure that you still have access to it if you loose your Tails USB stick. Then you will always be able to recover all your bitcoins. Do I have to do something in order to receive bitcoins? No, you just need to send the bitcoins to one of the addresses under the &amp;ldquo;Addresses&amp;rdquo; tab.</description>
+    </item>
+    
+    <item>
+      <title>How to buy Bitcoin (BTC)</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/how_to_buy_bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/how_to_buy_bitcoin/</guid>
+      <description>How to buy bitcoins The best method to buy btc is to not reveal your identity. Unfortunately most major btc exchanges require ID, or ones that will keep you anonymous have very high fees. If you have to use your ID, or are just buying with a card that is attached to your real identity it is okay. We will be covering how to break the chain of custody to your identity by converting to Monero later on.</description>
+    </item>
+    
+    <item>
+      <title>Tumbling</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/tumbling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/tumbling/</guid>
+      <description>Tumbling Tumbling is a service that has worked well in the past. With the rise of the darknet, tumbling has become more of an outdated service. Many tumblers risk your opsec, or just scam you of your coins. Tumbling your coins is still better than not tumbling them, but they will not protect you. This cannot be stressed enough, chain anylsis can very easily track your coins back to you even if you use a tumbler.</description>
+    </item>
+    
+    <item>
+      <title>Setting up your wallet (BTC)</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/setting_up_your_wallet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/setting_up_your_wallet/</guid>
+      <description>Setting up your wallet (BTC) Note: Do not use Electrum wallets with two-factor authentication (2FA). You may think that 2FA for markets is good (which it is) so it must be good for Electrum on Tails too. No. It requires you to bring your smartphone into DNM activities as well as installing google apps on it which is the last thing you want for an anonymous DNM wallet. Plus your wallet will be secure enough if you keep your seed secure (e.</description>
+    </item>
+    
+    <item>
+      <title>Sending Bitcoin</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/sending_bitcoins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/sending_bitcoins/</guid>
+      <description>Sending Bitcoin This chapter deals with sending your bitcoins from the source you got them (e.g. a Bitcoin exchange) to the final destination (a DNM). Unfortunately it is not as easy as sending them straight to your market deposit address because exchanges have banned and flagged accounts in the past that did that.
+The Path Note: as described earlier, if you use Electrum an attacker can see what addresses belong to what wallet and which IP address regularly checks the balance of these addresses.</description>
+    </item>
+    
+    <item>
+      <title>Transactions not getting confirmed</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/transactions_not_getting_confirmed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/transactions_not_getting_confirmed/</guid>
+      <description>Transactions not getting confirmed Bitcoin transactions become &amp;ldquo;confirmed&amp;rdquo; when miners accept to write them in the Bitcoin blockchain. In general, the speed of confirmation depends on the fee you attach to your transaction; miners prioritize transaction that pay the highest fees. Another reason could be that the Bitcoin network is overloaded at the moment. Sometimes a lot of unconfirmed transaction rack up (tens of thousands) these have to get processed, which will take a while.</description>
+    </item>
+    
+  </channel>
+</rss>

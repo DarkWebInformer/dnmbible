@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monero (XMR) on DNM Bible</title>
+    <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/monero/</link>
+    <description>Recent content in Monero (XMR) on DNM Bible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/monero/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Monero FAQ</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/monero/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/monero/faq/</guid>
+      <description>Monero FAQ How do I safely route my coins? Exchange -&amp;gt; Monero wallet (on Tails or Whonix) -&amp;gt; Destination
+More details in the following posts: 1, 2
+My vendor only accepts Bitcoin, what do I do? Monero wallet -&amp;gt; Exchange service -&amp;gt; Destination or Monero wallet -&amp;gt; Exchange service -&amp;gt; Bitcoin wallet -&amp;gt; Destination
+Use an instant exchange service over Tor to anonymously convert your Monero into Bitcoin.
+Avoid sending directly from an exchange service to the destination if your order has a short timeout.</description>
+    </item>
+    
+    <item>
+      <title>How to buy Monero</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/monero/how_to_buy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/monero/how_to_buy/</guid>
+      <description>How to Buy Monero Peer-to-peer
+   Service Notes     Local Monero similar to localbitcoins. cash in mail, bank transfer, SEPA, revolut, others   Bisq decentralized exchange, BTC/XMR pair   OpenBazaar     Exchanges
+   Website KYC Fiat gateway Trading pairs Notes     Kraken Yes Yes: USD, EUR BTC, EUR, USD SEPA deposits are free   Binance Yes Yes* BTC, ETH, BUSD, USDT *Binance offers a wide range of fiat deposit options, but does not offer XMR directly for fiat.</description>
+    </item>
+    
+    <item>
+      <title>Installing Monero</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/monero/installing_monero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/monero/installing_monero/</guid>
+      <description>Installing Monero Because of the constant changes and updates, we recommend following our sister Monero Guide which is always kept up to date.
+You can find it here: http://xmrguide25ibknxgaray5rqksrclddxqku3ggdcnzg4ogdi5qkdkd2yd.onion
+It will walk you through everything from different wallets you can install, to how to use them!</description>
+    </item>
+    
+    <item>
+      <title>Creating Monero Wallets</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/monero/creating_monero_wallets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/monero/creating_monero_wallets/</guid>
+      <description>Creating Monero Wallets Because of the constant changes and updates, we recommend following our sister Monero Guide which is always kept up to date.
+You can find it here: [http://xmrguide25ibknxgaray5rqksrclddxqku3ggdcnzg4ogdi5qkdkd2yd.onion]
+It will walk you through everything from different wallets you can install, to how to use them!</description>
+    </item>
+    
+  </channel>
+</rss>

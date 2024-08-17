@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenBazaar on DNM Bible</title>
+    <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/openbazaar/</link>
+    <description>Recent content in OpenBazaar on DNM Bible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/openbazaar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Installing on Whonix</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/openbazaar/installing_on_whonix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/openbazaar/installing_on_whonix/</guid>
+      <description>Installing on Whonix To use OB on Whonix, do the following steps on the Whonix Workstation. Open the Konsole by double-clicking on the icon called &amp;ldquo;Konsole&amp;rdquo; on your Workstation desktop. Then enter the following command (you can copy it and paste it into the terminal / konsole by doing right-click -&amp;gt; &amp;ldquo;Paste&amp;rdquo;):
+sudo apt-get update &amp;amp;&amp;amp; sudo apt-get dist-upgrade -y This makes sure that all your software is up to date.</description>
+    </item>
+    
+    <item>
+      <title>Customizing the settings</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/openbazaar/customizing_the_settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/miscellaneous-information/openbazaar/customizing_the_settings/</guid>
+      <description>Customizing the settings The last step you have to take in order to finish your OB setup is customizing the settings a little bit. To get there go to your &amp;ldquo;Home&amp;rdquo; tab and click on the &amp;ldquo;Customize&amp;rdquo; button. Then switch to the &amp;ldquo;General&amp;rdquo; tab located on the left side and set the option &amp;ldquo;Display Mature Content&amp;rdquo; to &amp;ldquo;Yes&amp;rdquo;. Click on the &amp;ldquo;Save&amp;rdquo; button again.
+Then jump to the &amp;ldquo;Store&amp;rdquo; tab and set the option &amp;ldquo;Store&amp;rdquo; to &amp;ldquo;Off&amp;rdquo; since you are not a vendor and want to keep your attack surface as low as possible.</description>
+    </item>
+    
+  </channel>
+</rss>

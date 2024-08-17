@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+
+<html dir="" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Sending Bitcoin This chapter deals with sending your bitcoins from the source you got them (e.g. a Bitcoin exchange) to the final destination (a DNM). Unfortunately it is not as easy as sending them straight to your market deposit address because exchanges have banned and flagged accounts in the past that did that.
+The Path Note: as described earlier, if you use Electrum an attacker can see what addresses belong to what wallet and which IP address regularly checks the balance of these addresses." name="description"/>
+<meta content="#FFFFFF" name="theme-color"/><meta content="Sending Bitcoin" property="og:title">
+<meta content="Sending Bitcoin This chapter deals with sending your bitcoins from the source you got them (e.g. a Bitcoin exchange) to the final destination (a DNM). Unfortunately it is not as easy as sending them straight to your market deposit address because exchanges have banned and flagged accounts in the past that did that.
+The Path Note: as described earlier, if you use Electrum an attacker can see what addresses belong to what wallet and which IP address regularly checks the balance of these addresses." property="og:description">
+<meta content="article" property="og:type">
+<meta content="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/cryptocurrencies/bitcoin/sending_bitcoins/" property="og:url">
+<title>Sending Bitcoin | DNM Bible</title>
+<link href="/manifest.json" rel="manifest"/>
+<link href="/favicon.png" rel="icon" type="image/x-icon"/>
+<link href="../../../../../content/book.min.70870d18fd3e72519924a6f3be367e8227ec2df1dc92dae9f9fcf8b69318de06.css" rel="stylesheet"/>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+</meta></meta></meta></meta></head>
+<body dir="">
+<input class="hidden toggle" id="menu-control" type="checkbox"/>
+<input class="hidden toggle" id="toc-control" type="checkbox"/>
+<main class="container flex">
+<aside class="book-menu">
+<nav>
+<h2 class="book-brand">
+<a href="../../../../../content/index.html"><span>DNM Bible</span>
+</a>
+</h2>
+<ul>
+<li class="book-section-flat">
+<span>Bible</span>
+<ul>
+<li>
+<input class="toggle" id="section-8bbdb096ca1e07bd997b7af26003034f" type="checkbox"/>
+<label class="flex justify-between" for="section-8bbdb096ca1e07bd997b7af26003034f">
+<a class="" href="../../../../../content/bible/about/index.html">About</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/about/before-you-start/index.html">Before you start</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-2257427ed8e55517b9bb2b9fb91e50ea" type="checkbox"/>
+<label class="flex justify-between" for="section-2257427ed8e55517b9bb2b9fb91e50ea">
+<a class="" href="../../../../../content/bible/operating-systems/index.html">Operating Systems</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<input class="toggle" id="section-317772e44a73cf791b98ea5a6e8cff92" type="checkbox"/>
+<label class="flex justify-between" for="section-317772e44a73cf791b98ea5a6e8cff92">
+<a class="" href="../../../../../content/bible/operating-systems/host_operatingsystem/index.html">Host Operating System</a>
+<span>▾</span>
+</label>
+</li>
+<li>
+<input class="toggle" id="section-a704da56889756d1eff12b490c90339a" type="checkbox"/>
+<label class="flex justify-between" for="section-a704da56889756d1eff12b490c90339a">
+<a class="" href="../../../../../content/bible/operating-systems/tails/index.html">Tails</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/tails/installing_tails/index.html">Installing Tails</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/tails/important_settings/index.html">Important settings and tips</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/tails/setting_up_persistence/index.html">Setting up the persistence volume</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/tails/upgrading/index.html">Upgrading</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/tails/backing_up/index.html">Backing up</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/tails/install_packages/index.html">Optional: Install Debian Packages on Boot</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/tails/got_problems/index.html">Got problems?</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-87010c6cf506de91338fae440a3d206d" type="checkbox"/>
+<label class="flex justify-between" for="section-87010c6cf506de91338fae440a3d206d">
+<a class="" href="../../../../../content/bible/operating-systems/whonix/index.html">Whonix</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/whonix/installing_the_host_os/index.html">Installing Host OS</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/whonix/install_whonix/index.html">Installing Whonix</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/whonix/starting_and_shutting_down/index.html">Starting and shutting down Whonix</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/whonix/performance_tips/index.html">Performance tips</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-00c85ec7f531157d4e2bc0c553c579e2" type="checkbox"/>
+<label class="flex justify-between" for="section-00c85ec7f531157d4e2bc0c553c579e2">
+<a class="" href="../../../../../content/bible/operating-systems/qubes/index.html">Qubes/Whonix</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/qubes/installing_qubes/index.html">Installing Qubes</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-d30256be611223a4694dcb9f3e5fff49" type="checkbox"/>
+<label class="flex justify-between" for="section-d30256be611223a4694dcb9f3e5fff49">
+<a class="" href="../../../../../content/bible/operating-systems/mobile/index.html">Mobile Guide</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<input class="toggle" id="section-cdf37ab720fc0686a1ad37b962e97289" type="checkbox"/>
+<label class="flex justify-between" for="section-cdf37ab720fc0686a1ad37b962e97289">
+<a class="" href="../../../../../content/bible/operating-systems/mobile/mobile_guide/index.html">Installation</a>
+<span>▾</span>
+</label>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-c7dcbaaf373bccfbcc23d82dbae03609" type="checkbox"/>
+<label class="flex justify-between" for="section-c7dcbaaf373bccfbcc23d82dbae03609">
+<a class="" href="../../../../../content/bible/keepassxc/index.html">KeePassXC</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/keepassxc/creating_a_databse/index.html">Creating a database</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/keepassxc/opening_a_database/index.html">Opening a database</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/keepassxc/adding_entries/index.html">Adding entries</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/keepassxc/accessing_secrets/index.html">Accessing secrets</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-379435d67787caa1f0ac267e9f2093c9" type="checkbox"/>
+<label class="flex justify-between" for="section-379435d67787caa1f0ac267e9f2093c9">
+<a class="" href="../../../../../content/bible/pgp/index.html">PGP</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/pgp/creating_a_pgp_key_pair/index.html">Creating a key pair</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/pgp/importing_a_public_key/index.html">Importing a public key</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/pgp/encrypt_a_message/index.html">Encrypting a message</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/pgp/verifying_a_message/index.html">Verifying a message</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/pgp/decrypting_a_message/index.html">Decrypting a message</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/pgp/signing_a_message/index.html">Signing a message</a>
+</li>
+</ul>
+</li>
+<li>
+<input checked="" class="toggle" id="section-345c086d57e22adea229d6f8bfce901d" type="checkbox"/>
+<label class="flex justify-between" for="section-345c086d57e22adea229d6f8bfce901d">
+<a class="" href="../../../../../content/bible/cryptocurrencies/index.html">Cryptocurrencies</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<input class="toggle" id="section-28d314344cfb271c3aa2e5f530094b7c" type="checkbox"/>
+<label class="flex justify-between" for="section-28d314344cfb271c3aa2e5f530094b7c">
+<a class="" href="../../../../../content/bible/cryptocurrencies/monero/index.html">Monero (XMR)</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<input class="toggle" id="section-bcc7392da2d9a0cbfd6ebf63bba8eb5d" type="checkbox"/>
+<label class="flex justify-between" for="section-bcc7392da2d9a0cbfd6ebf63bba8eb5d">
+<a class="" href="../../../../../content/bible/cryptocurrencies/monero/faq/index.html">Monero FAQ</a>
+<span>▾</span>
+</label>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/monero/how_to_buy/index.html">How to buy Monero</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/monero/installing_monero/index.html">Installing Monero</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/monero/creating_monero_wallets/index.html">Creating Monero Wallets</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-f6f438173845c21ee04fbd75963d1a4c" type="checkbox"/>
+<label class="flex justify-between" for="section-f6f438173845c21ee04fbd75963d1a4c">
+<a class="" href="../../../../../content/bible/cryptocurrencies/litecoin/index.html">Litecoin (LTC)</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/litecoin/litecoin_tails/index.html">Installing Litecoin in Tails</a>
+</li>
+</ul>
+</li>
+<li>
+<input checked="" class="toggle" id="section-dfd45ccfcc6c6107b81a6e5382752081" type="checkbox"/>
+<label class="flex justify-between" for="section-dfd45ccfcc6c6107b81a6e5382752081">
+<a class="" href="../../../../../content/bible/cryptocurrencies/bitcoin/index.html">Bitcoin (BTC)</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/bitcoin/important_tips/index.html">Important tips regarding Bitcoin</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/bitcoin/how_to_buy_bitcoin/index.html">How to buy Bitcoin (BTC)</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/bitcoin/tumbling/index.html">Tumbling</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/bitcoin/setting_up_your_wallet/index.html">Setting up your wallet (BTC)</a>
+</li>
+<li>
+<a class="active" href="../../../../../content/bible/cryptocurrencies/bitcoin/sending_bitcoins/index.html">Sending Bitcoin</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/bitcoin/transactions_not_getting_confirmed/index.html">Transactions not getting confirmed</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-4eab7d4cea4dba4ba11c806b5383ab97" type="checkbox"/>
+<label class="flex justify-between" for="section-4eab7d4cea4dba4ba11c806b5383ab97">
+<a class="" href="../../../../../content/bible/cryptocurrencies/converting/index.html">Converting</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/converting/converting_coins/index.html">Converting Coins</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/converting/crypto_closing_words/index.html">Crypto Closing Words</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-aa0103a72160cbcdb94b858e1b944652" type="checkbox"/>
+<label class="flex justify-between" for="section-aa0103a72160cbcdb94b858e1b944652">
+<a class="" href="../../../../../content/bible/shipping/index.html">Shipping</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/shipping/origin_countries/index.html">Origin Countries</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/shipping/stealth/index.html">Stealth</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/shipping/non_arriving_packages/index.html">Non arriving Packages</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/shipping/drop/index.html">Drop</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/shipping/controlled_delivery/index.html">Controlled Delivery (CD)</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/shipping/monitored_delivery/index.html">Monitored Delivery</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/shipping/love_letter/index.html">Love Letter</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-ff6ca5e417f82402c92f4b3ac4a4715c" type="checkbox"/>
+<label class="flex justify-between" for="section-ff6ca5e417f82402c92f4b3ac4a4715c">
+<a class="" href="../../../../../content/bible/harm-reduction/index.html">Harm Reduction</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/harm-reduction/resources/index.html">Resources</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/harm-reduction/labs/index.html">Labs</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/harm-reduction/suicide_numbers/index.html">Suicide Hotlines</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-505b5c5760a8216655f6d859568f5d44" type="checkbox"/>
+<label class="flex justify-between" for="section-505b5c5760a8216655f6d859568f5d44">
+<a class="" href="../../../../../content/bible/darknetmarkets/index.html">Darknet Markets</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/important_tips/index.html">Important tips for using markets</a>
+</li>
+<li>
+<input class="toggle" id="section-af06ccf940ad4f7436fd1797f7335e55" type="checkbox"/>
+<label class="flex justify-between" for="section-af06ccf940ad4f7436fd1797f7335e55">
+<a class="" href="../../../../../content/bible/darknetmarkets/types-of-markets/index.html">Types of market</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/types-of-markets/multisig/index.html">Multisignature (Multisig)</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/types-of-markets/escrow/index.html">Escrow</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/types-of-markets/direct_deal/index.html">Direct Deal(DD)</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/choosing_a_market/index.html">Choosing a Darknet Market</a>
+</li>
+<li>
+<input class="toggle" id="section-79e86efc7e8a437a2a80ee92aee0d415" type="checkbox"/>
+<label class="flex justify-between" for="section-79e86efc7e8a437a2a80ee92aee0d415">
+<a class="" href="../../../../../content/bible/darknetmarkets/how-to-verify-an-onion/index.html">How to verify an onion</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/how-to-verify-an-onion/verify_onion/index.html">How to verify an onion</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/how-to-verify-an-onion/practice_verifying/index.html">Practice verifying</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/how-to-verify-an-onion/how_ddf_dnl_were_hijacked/index.html">How DDF/DNL were hijacked</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/choosing_a_vendor/index.html">Choosing a vendor</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/types_of_scams/index.html">Types of Scams</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/how_to_be_a_good_buyer/index.html">How to be a good buyer</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/getting_a_lawyer/index.html">Getting a lawyer</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/making_a_purchase/index.html">Making a purchase</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/giving_feedback/index.html">Giving Feedback</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/irl_opsec/index.html">IRL OpSec</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-2aeff91c301acc8a9ac4cbbf654ed6d9" type="checkbox"/>
+<label class="flex justify-between" for="section-2aeff91c301acc8a9ac4cbbf654ed6d9">
+<a class="" href="../../../../../content/bible/communication-methods/index.html">Alternative communication methods</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/communication-methods/email/index.html">Email</a>
+</li>
+<li>
+<input class="toggle" id="section-71a314f0414e8b8edb23b74e764cd9a7" type="checkbox"/>
+<label class="flex justify-between" for="section-71a314f0414e8b8edb23b74e764cd9a7">
+<a class="" href="../../../../../content/bible/communication-methods/jabberxmpp/index.html">Jabber / XMPP</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/communication-methods/jabberxmpp/gajim+omemo/index.html">Setup Gajim+OMEMO</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/communication-methods/jabberxmpp/setup-pidgin+otr/index.html">Setup Pidgin+OTR</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/communication-methods/jabberxmpp/using-pidgin+otr/index.html">Using pidgin+OTR (XMPP)</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/communication-methods/jabberxmpp/services/index.html">Services</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-251d6b5a41e42f291064d7830f6284d2" type="checkbox"/>
+<label class="flex justify-between" for="section-251d6b5a41e42f291064d7830f6284d2">
+<a class="" href="../../../../../content/bible/miscellaneous-information/index.html">Miscellaneous information</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/miscellaneous-information/javascript/index.html">Javascript</a>
+</li>
+<li>
+<input class="toggle" id="section-d9326c844a6c53703a1cb9949c0ae4d7" type="checkbox"/>
+<label class="flex justify-between" for="section-d9326c844a6c53703a1cb9949c0ae4d7">
+<a class="" href="../../../../../content/bible/miscellaneous-information/offline-version/index.html">Offline Version</a>
+<span>▾</span>
+</label>
+<ul>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-ae5b57bd925ea6bcabec64cabdeb338d" type="checkbox"/>
+<label class="flex justify-between" for="section-ae5b57bd925ea6bcabec64cabdeb338d">
+<a class="" href="../../../../../content/bible/miscellaneous-information/removing-exif-data/index.html">Removing Exif Data</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/miscellaneous-information/removing-exif-data/uploading_images_securely/index.html">Uploading images securely</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-e607e4f30ea2c7bb23b5ae595d238ba6" type="checkbox"/>
+<label class="flex justify-between" for="section-e607e4f30ea2c7bb23b5ae595d238ba6">
+<a class="" href="../../../../../content/bible/miscellaneous-information/openbazaar/index.html">OpenBazaar</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/miscellaneous-information/openbazaar/installing_on_whonix/index.html">Installing on Whonix</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/miscellaneous-information/openbazaar/customizing_the_settings/index.html">Customizing the settings</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-22efcc6ea98ddcb322c5d1ba35a0b9bd" type="checkbox"/>
+<label class="flex justify-between" for="section-22efcc6ea98ddcb322c5d1ba35a0b9bd">
+<a class="" href="../../../../../content/bible/miscellaneous-information/i2p/index.html">I2P</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/miscellaneous-information/i2p/tails/index.html">Tails I2P</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/miscellaneous-information/i2p/androidi2p/index.html">Android I2P</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/miscellaneous-information/i2p/ubuntui2p/index.html">Ubuntu I2P</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/miscellaneous-information/i2p/qubeswhonixi2p/index.html">Qubes/Whonix I2P</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/closing-words/index.html">Closing Words</a>
+<ul>
+</ul>
+</li>
+</ul>
+</li>
+<li class="book-section-flat">
+<span>Appendix</span>
+<ul>
+<li>
+<a class="" href="../../../../../content/appendix/resources/index.html">Resources</a>
+</li>
+<li>
+<a class="" href="../../../../../content/appendix/contents/index.html">Table of Contents</a>
+</li>
+<li>
+<a class="" href="../../../../../content/appendix/glossary/index.html">Glossary</a>
+</li>
+<li>
+<a class="" href="../../../../../content/appendix/faq/index.html">FAQ</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</aside>
+<div class="book-page">
+<header class="book-header">
+<div class="flex align-center justify-between">
+<label for="menu-control">
+<img alt="Menu" class="book-icon" src="../../../../../content/svg/menu.svg"/>
+</label>
+<strong>Sending Bitcoin</strong>
+<label for="toc-control">
+<img alt="Table of Contents" class="book-icon" src="../../../../../content/svg/toc.svg"/>
+</label>
+</div>
+<aside class="hidden clearfix">
+<br/><br/><br/>
+<nav id="TableOfContents">
+<ul>
+<li><a href="#sending-bitcoin">Sending Bitcoin</a>
+<ul>
+<li><a href="#the-path">The Path</a></li>
+<li><a href="#sending-bitcoins-with-electrum-the-process">Sending bitcoins with Electrum The process</a></li>
+<li><a href="#setting-the-fee-manually">Setting the fee manually</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</aside>
+</header>
+<article class="markdown"><h1 id="sending-bitcoin">Sending Bitcoin</h1>
+<p>This chapter deals with sending your bitcoins from the source you got them (e.g. a Bitcoin exchange) to the final destination (a DNM). Unfortunately it is not as easy as sending them straight to your market deposit address because exchanges have banned and flagged accounts in the past that did that.</p>
+<h2 id="the-path">The Path</h2>
+<p><strong>Note</strong>: as described earlier, if you use Electrum an attacker can see what addresses belong to what wallet and which IP address regularly checks the balance of these addresses.</p>
+<p>The general the path you should send your bitcoins is: Bitcoin exchange -&gt;BTC Wallet1-&gt; convert to XMR-&gt;XMR Wallet -&gt; DNM IF your vendor does not accept XMR you can convert back to Bitcoin. More on that later in the converting section.</p>
+<p><strong>Note</strong>: That normal wallet and the Electrum wallet on Tails have to be different wallets. So you need to do the setup process described previously twice: once for your normal wallet and once for your Electrum wallet on Tails.</p>
+<p>This process is to break the chain of custody to you, and add plausible deniablity. Once converted to XMR it cannot be traced anymore. If you were to be questioned about converting you can just say you sent them for consulting, or simply say you no longer have access to the wallet.
+If you would go exchange -&gt; Electrum on Tails -&gt; DNM, it would be pretty obvious that you are the one who sent the bitcoins to the DNM (assuming that the DNM deposit address is known), because nobody would give the DNM deposit address to the Bitcoin seller when buying the bitcoins. That means: if you still claim that you sold the bitcoins to someone else after withdrawing them from the exchange to your Electrum wallet on Tails, that new buyer would have given you his DNM deposit address. This is extremely unlikely because you normally do not give out DNM deposit addresses out when buying bitcoins, but rather one that belongs to one of your wallets. Therefore nobody would believe you that you sold the bitcoins to a stranger. So your plausible deniability would be gone.
+With the recommended path (marked in bold above) you can believably claim that someone else sent the bitcoins to a DNM and the exchange will most likely not ban your account because you did not sent them directly to a DNM.</p>
+<p>Note: some markets have a minimum amount of bitcoins you have to send for a deposit. Make sure you meet that requirement or you could lose your money!
+I did not send my bitcoins that way before, am I fucked?
+You will probably be fine, BUT make sure you go the path described above in the future for every DNM deposit. You do not have to delete your DNM account or Bitcoin exchange account, but step up your OpSec in the future.</p>
+<h2 id="sending-bitcoins-with-electrum-the-process">Sending bitcoins with Electrum The process</h2>
+<p>To send bitcoins from your Electrum wallet to an address just go to the “Send” tab and enter the destination Bitcoin address in the “Pay to”. When sending the bitcoins make sure you use the transaction fee that is dynamically created by Electrum (by default it will get confirmed within 5 blocks). That means just let the slider under the amount field be in the middle. If you are sending the bitcoins from the normal wallet you have to get a receiving address from your Electrum wallet on Tails first. To do that go to the “Addresses” tab in your Electrum wallet on Tails and write down the value of one of the Bitcoin addresses listed under “Receiving”.</p>
+<p><strong>Note</strong>: you can double click on the space on the right of the address to change the label of that address. It is recommended to label it as “used <current date="">” for example, so you know that you already used it and do not use it again.
+After that boot your normal OS again and start Electrum again. Then you can go to the “Send” tab again and send the bitcoins to the address of your Electrum wallet on Tails. When you received the bitcoins on Electrum wallet on Tails you can repeat the same send-process but this time send them to the deposit address that your market gave you.</current></p>
+<h2 id="setting-the-fee-manually">Setting the fee manually</h2>
+<p>You can also set the fee manually to ensure that your transaction (short: tx) does not take too long to confirm. Using the dynamic fee as described above is usually the best way though. If you do want to set the fee manually though, follow these steps:</p>
+<ol>
+<li>Go to bitcoinfees.21.co, allow JavaScript for “<a href="https://bitcoinfees.21.co">https://bitcoinfees.21.co</a>” and scroll down to the bottom of the graphs. There you see a sentence like “The fastest and cheapest transaction fee is currently 390 satoshis/byte”.</li>
+<li>Open Electrum and go Tools -&gt; Preferences and uncheck the “Use dynamic fees” option. Then you can set the transaction fee per kilobyte (kb) in BTC/kB. If it shows mBTC/kB, switch to the “Appearance” tab and select “BTC” as the base unit from the dropdown menu.</li>
+<li>Now change the value of the transaction fee per kb like this: If the recommended fee from the website is 390 satoshis/byte, set the fee to 0.0039 BTC/kB. That means, append three zeros to the satoshis/byte value as well as a point after the zero on the far left. If the website would have recommended 280 satoshis/byte instead, you should set the fee to 0.0028 BTC/kB instead in Electrum.</li>
+<li>Done! Now click on the close button.</li>
+</ol>
+</article>
+<footer class="book-footer">
+<div class="flex flex-wrap justify-between">
+<div aria-haspopup="true" class="book-languages" tabindex="0">
+<ul>
+<li class="flex align-center">
+<img alt="Languages" class="book-icon" src="../../../../../content/svg/translate.svg"/>
+      English
+    </li>
+</ul>
+<ul class="book-languages-list">
+<li class="active">
+<a class="flex align-center" href="../../../../../content/index.html">
+<img alt="Languages" class="book-icon" src="../../../../../content/svg/translate.svg"/>
+        English
+      </a>
+</li>
+<li class="">
+<a class="flex align-center" href="../../../../../content/es/index.html">
+<img alt="Languages" class="book-icon" src="../../../../../content/svg/translate.svg"/>
+        Spanish
+      </a>
+</li>
+<li class="">
+<a class="flex align-center" href="../../../../../content/fr/index.html">
+<img alt="Languages" class="book-icon" src="../../../../../content/svg/translate.svg"/>
+        French
+      </a>
+</li>
+<li class="">
+<a class="flex align-center" href="../../../../../content/de/index.html">
+<img alt="Languages" class="book-icon" src="../../../../../content/svg/translate.svg"/>
+        German
+      </a>
+</li>
+</ul>
+</div>
+</div>
+</footer>
+<label class="hidden book-menu-overlay" for="menu-control"></label>
+</div>
+<aside class="book-toc">
+<br/><br/><br/>
+<nav id="TableOfContents">
+<ul>
+<li><a href="#sending-bitcoin">Sending Bitcoin</a>
+<ul>
+<li><a href="#the-path">The Path</a></li>
+<li><a href="#sending-bitcoins-with-electrum-the-process">Sending bitcoins with Electrum The process</a></li>
+<li><a href="#setting-the-fee-manually">Setting the fee manually</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</aside>
+</main>
+<div id="js-warning">
+<input checked="" id="warning" type="checkbox"/>
+<div class="modal">
+<div class="modal__inner">
+<h1>Warning</h1>
+<p>Warning you have javascript enabled! Go to <a href="../../../../../content/bible/miscellaneous-information/javascript/index.html">this page</a> to learn how to disable it.</p>
+<label for="warning" id="js-warning-close">X</label>
+</div>
+</div>
+</div>
+<style>
+    #js-warning .modal {
+        align-items: center;
+        background-color: rgba(0,0,0,0.75);
+        bottom: 0;
+        display: flex;
+        justify-content: center;
+        left: 0;
+        opacity: 0;
+        position: fixed;
+        right: 0;
+        top: 0;
+        visibility: hidden;
+    }
+    #js-warning .modal__inner {
+        background: white;
+        padding: 30px;
+        position: absolute;
+        color: black;
+    }
+    #js-warning label {
+        display: inline-block;
+        cursor: pointer;
+    }
+    #js-warning input {
+        display: none;
+    }
+    #js-warning-close{
+        color: #fff;
+        text-align: center;
+    }
+    #js-warning input:checked + .modal {
+        opacity: 1;
+        visibility: visible;
+    }
+    #js-warning input:checked + .modal label {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 30px;
+        background: #666666;
+    }
+    #js-warning input:checked + .modal label:hover {
+        background: #333333;
+    }
+</style>
+<noscript>
+<style>
+		#js-warning {
+            display: none;
+        }
+	</style>
+</noscript>
+</body>
+</html>

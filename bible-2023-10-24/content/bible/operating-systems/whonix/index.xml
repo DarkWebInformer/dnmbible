@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Whonix on DNM Bible</title>
+    <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/whonix/</link>
+    <description>Recent content in Whonix on DNM Bible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/whonix/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Installing Host OS</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/whonix/installing_the_host_os/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/whonix/installing_the_host_os/</guid>
+      <description>Installing the host OS To be able to run Whonix, you must first choose and install the host OS, on which you will later run Whonix. Like a program that you run on an OS, only that the program in this case is a full OS itself.
+As mentioned at the beginning, if you are not that tech-savvy you should use Manjaro, Debian, or Linux Mint. Just follow these instructions for Debian, or these for manjaro and these When installing make sure you are fully encrypting your device or you&amp;rsquo;re not securing your host OS!</description>
+    </item>
+    
+    <item>
+      <title>Installing Whonix</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/whonix/install_whonix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/whonix/install_whonix/</guid>
+      <description>Installing Whonix Installing Before you install Whonix, a small note that it consists of two different OS: the Gateway and the Workstation. When you set everything up you do all your work (like using the Tor browser, decrypting PGP messages, . . .) on the Workstation. The Workstation contacts the Gateway in the background (i.e. you do not have to do anything) and sends the entire internet traffic that you produce on the Workstation to it.</description>
+    </item>
+    
+    <item>
+      <title>Starting and shutting down Whonix</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/whonix/starting_and_shutting_down/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/whonix/starting_and_shutting_down/</guid>
+      <description>Starting and shutting down Whonix Starting First, start the Whonix-Gateway. Select the Whonix-Gateway in VirtualBox, and hit the big Start button or double click on the entry in the list on the left.
+Tip: enlarge the Gateway and Workstation windows after you started them for improved usability.
+Once the desktop environment has loaded (i.e. you see the desktop), open the terminal by double clicking on the terminal-shortcut on the desktop and change your password by hitting ENTER after typing</description>
+    </item>
+    
+    <item>
+      <title>Performance tips</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/whonix/performance_tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/whonix/performance_tips/</guid>
+      <description>Performance tips Running essentially three operating systems (OS) at the same time can take up some resources from your computer. Especially if you are all doing it from a USB stick and not an internal SSD for example. So in the following some tips which you can follow if you want to improve the performance of your Whonix setup. If everything is running smoothly, you do not need to follow them (if it is not broke, do not fix it).</description>
+    </item>
+    
+  </channel>
+</rss>

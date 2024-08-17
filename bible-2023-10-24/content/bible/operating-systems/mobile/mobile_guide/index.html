@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+
+<html dir="" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Getting started Before we begin remember this guide should only be used if you have no other options! Mobile is still not good for your opsec!  Installation Graphene has two officially supported installation methods, this guide will cover the recommended method.
+ WebUSB-based Installer - recommended for most users Command Line Install - recommended for advanced users  Prerequisites Install an officially supported operating system, you should have at least 4GB of free memory available and 32GB of free storage." name="description"/>
+<meta content="#FFFFFF" name="theme-color"/><meta content="Installation" property="og:title">
+<meta content="Getting started Before we begin remember this guide should only be used if you have no other options! Mobile is still not good for your opsec!  Installation Graphene has two officially supported installation methods, this guide will cover the recommended method.
+ WebUSB-based Installer - recommended for most users Command Line Install - recommended for advanced users  Prerequisites Install an officially supported operating system, you should have at least 4GB of free memory available and 32GB of free storage." property="og:description">
+<meta content="article" property="og:type">
+<meta content="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/mobile/mobile_guide/" property="og:url">
+<title>Installation | DNM Bible</title>
+<link href="/manifest.json" rel="manifest"/>
+<link href="/favicon.png" rel="icon" type="image/x-icon"/>
+<link href="../../../../../content/book.min.70870d18fd3e72519924a6f3be367e8227ec2df1dc92dae9f9fcf8b69318de06.css" rel="stylesheet"/>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+</meta></meta></meta></meta></head>
+<body dir="">
+<input class="hidden toggle" id="menu-control" type="checkbox"/>
+<input class="hidden toggle" id="toc-control" type="checkbox"/>
+<main class="container flex">
+<aside class="book-menu">
+<nav>
+<h2 class="book-brand">
+<a href="../../../../../content/index.html"><span>DNM Bible</span>
+</a>
+</h2>
+<ul>
+<li class="book-section-flat">
+<span>Bible</span>
+<ul>
+<li>
+<input class="toggle" id="section-8bbdb096ca1e07bd997b7af26003034f" type="checkbox"/>
+<label class="flex justify-between" for="section-8bbdb096ca1e07bd997b7af26003034f">
+<a class="" href="../../../../../content/bible/about/index.html">About</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/about/before-you-start/index.html">Before you start</a>
+</li>
+</ul>
+</li>
+<li>
+<input checked="" class="toggle" id="section-2257427ed8e55517b9bb2b9fb91e50ea" type="checkbox"/>
+<label class="flex justify-between" for="section-2257427ed8e55517b9bb2b9fb91e50ea">
+<a class="" href="../../../../../content/bible/operating-systems/index.html">Operating Systems</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<input class="toggle" id="section-317772e44a73cf791b98ea5a6e8cff92" type="checkbox"/>
+<label class="flex justify-between" for="section-317772e44a73cf791b98ea5a6e8cff92">
+<a class="" href="../../../../../content/bible/operating-systems/host_operatingsystem/index.html">Host Operating System</a>
+<span>▾</span>
+</label>
+</li>
+<li>
+<input class="toggle" id="section-a704da56889756d1eff12b490c90339a" type="checkbox"/>
+<label class="flex justify-between" for="section-a704da56889756d1eff12b490c90339a">
+<a class="" href="../../../../../content/bible/operating-systems/tails/index.html">Tails</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/tails/installing_tails/index.html">Installing Tails</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/tails/important_settings/index.html">Important settings and tips</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/tails/setting_up_persistence/index.html">Setting up the persistence volume</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/tails/upgrading/index.html">Upgrading</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/tails/backing_up/index.html">Backing up</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/tails/install_packages/index.html">Optional: Install Debian Packages on Boot</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/tails/got_problems/index.html">Got problems?</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-87010c6cf506de91338fae440a3d206d" type="checkbox"/>
+<label class="flex justify-between" for="section-87010c6cf506de91338fae440a3d206d">
+<a class="" href="../../../../../content/bible/operating-systems/whonix/index.html">Whonix</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/whonix/installing_the_host_os/index.html">Installing Host OS</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/whonix/install_whonix/index.html">Installing Whonix</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/whonix/starting_and_shutting_down/index.html">Starting and shutting down Whonix</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/whonix/performance_tips/index.html">Performance tips</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-00c85ec7f531157d4e2bc0c553c579e2" type="checkbox"/>
+<label class="flex justify-between" for="section-00c85ec7f531157d4e2bc0c553c579e2">
+<a class="" href="../../../../../content/bible/operating-systems/qubes/index.html">Qubes/Whonix</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/operating-systems/qubes/installing_qubes/index.html">Installing Qubes</a>
+</li>
+</ul>
+</li>
+<li>
+<input checked="" class="toggle" id="section-d30256be611223a4694dcb9f3e5fff49" type="checkbox"/>
+<label class="flex justify-between" for="section-d30256be611223a4694dcb9f3e5fff49">
+<a class="" href="../../../../../content/bible/operating-systems/mobile/index.html">Mobile Guide</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<input checked="" class="toggle" id="section-cdf37ab720fc0686a1ad37b962e97289" type="checkbox"/>
+<label class="flex justify-between" for="section-cdf37ab720fc0686a1ad37b962e97289">
+<a class="active" href="../../../../../content/bible/operating-systems/mobile/mobile_guide/index.html">Installation</a>
+<span>▾</span>
+</label>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-c7dcbaaf373bccfbcc23d82dbae03609" type="checkbox"/>
+<label class="flex justify-between" for="section-c7dcbaaf373bccfbcc23d82dbae03609">
+<a class="" href="../../../../../content/bible/keepassxc/index.html">KeePassXC</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/keepassxc/creating_a_databse/index.html">Creating a database</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/keepassxc/opening_a_database/index.html">Opening a database</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/keepassxc/adding_entries/index.html">Adding entries</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/keepassxc/accessing_secrets/index.html">Accessing secrets</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-379435d67787caa1f0ac267e9f2093c9" type="checkbox"/>
+<label class="flex justify-between" for="section-379435d67787caa1f0ac267e9f2093c9">
+<a class="" href="../../../../../content/bible/pgp/index.html">PGP</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/pgp/creating_a_pgp_key_pair/index.html">Creating a key pair</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/pgp/importing_a_public_key/index.html">Importing a public key</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/pgp/encrypt_a_message/index.html">Encrypting a message</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/pgp/verifying_a_message/index.html">Verifying a message</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/pgp/decrypting_a_message/index.html">Decrypting a message</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/pgp/signing_a_message/index.html">Signing a message</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-345c086d57e22adea229d6f8bfce901d" type="checkbox"/>
+<label class="flex justify-between" for="section-345c086d57e22adea229d6f8bfce901d">
+<a class="" href="../../../../../content/bible/cryptocurrencies/index.html">Cryptocurrencies</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<input class="toggle" id="section-28d314344cfb271c3aa2e5f530094b7c" type="checkbox"/>
+<label class="flex justify-between" for="section-28d314344cfb271c3aa2e5f530094b7c">
+<a class="" href="../../../../../content/bible/cryptocurrencies/monero/index.html">Monero (XMR)</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<input class="toggle" id="section-bcc7392da2d9a0cbfd6ebf63bba8eb5d" type="checkbox"/>
+<label class="flex justify-between" for="section-bcc7392da2d9a0cbfd6ebf63bba8eb5d">
+<a class="" href="../../../../../content/bible/cryptocurrencies/monero/faq/index.html">Monero FAQ</a>
+<span>▾</span>
+</label>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/monero/how_to_buy/index.html">How to buy Monero</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/monero/installing_monero/index.html">Installing Monero</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/monero/creating_monero_wallets/index.html">Creating Monero Wallets</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-f6f438173845c21ee04fbd75963d1a4c" type="checkbox"/>
+<label class="flex justify-between" for="section-f6f438173845c21ee04fbd75963d1a4c">
+<a class="" href="../../../../../content/bible/cryptocurrencies/litecoin/index.html">Litecoin (LTC)</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/litecoin/litecoin_tails/index.html">Installing Litecoin in Tails</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-dfd45ccfcc6c6107b81a6e5382752081" type="checkbox"/>
+<label class="flex justify-between" for="section-dfd45ccfcc6c6107b81a6e5382752081">
+<a class="" href="../../../../../content/bible/cryptocurrencies/bitcoin/index.html">Bitcoin (BTC)</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/bitcoin/important_tips/index.html">Important tips regarding Bitcoin</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/bitcoin/how_to_buy_bitcoin/index.html">How to buy Bitcoin (BTC)</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/bitcoin/tumbling/index.html">Tumbling</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/bitcoin/setting_up_your_wallet/index.html">Setting up your wallet (BTC)</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/bitcoin/sending_bitcoins/index.html">Sending Bitcoin</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/bitcoin/transactions_not_getting_confirmed/index.html">Transactions not getting confirmed</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-4eab7d4cea4dba4ba11c806b5383ab97" type="checkbox"/>
+<label class="flex justify-between" for="section-4eab7d4cea4dba4ba11c806b5383ab97">
+<a class="" href="../../../../../content/bible/cryptocurrencies/converting/index.html">Converting</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/converting/converting_coins/index.html">Converting Coins</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/cryptocurrencies/converting/crypto_closing_words/index.html">Crypto Closing Words</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-aa0103a72160cbcdb94b858e1b944652" type="checkbox"/>
+<label class="flex justify-between" for="section-aa0103a72160cbcdb94b858e1b944652">
+<a class="" href="../../../../../content/bible/shipping/index.html">Shipping</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/shipping/origin_countries/index.html">Origin Countries</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/shipping/stealth/index.html">Stealth</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/shipping/non_arriving_packages/index.html">Non arriving Packages</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/shipping/drop/index.html">Drop</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/shipping/controlled_delivery/index.html">Controlled Delivery (CD)</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/shipping/monitored_delivery/index.html">Monitored Delivery</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/shipping/love_letter/index.html">Love Letter</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-ff6ca5e417f82402c92f4b3ac4a4715c" type="checkbox"/>
+<label class="flex justify-between" for="section-ff6ca5e417f82402c92f4b3ac4a4715c">
+<a class="" href="../../../../../content/bible/harm-reduction/index.html">Harm Reduction</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/harm-reduction/resources/index.html">Resources</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/harm-reduction/labs/index.html">Labs</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/harm-reduction/suicide_numbers/index.html">Suicide Hotlines</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-505b5c5760a8216655f6d859568f5d44" type="checkbox"/>
+<label class="flex justify-between" for="section-505b5c5760a8216655f6d859568f5d44">
+<a class="" href="../../../../../content/bible/darknetmarkets/index.html">Darknet Markets</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/important_tips/index.html">Important tips for using markets</a>
+</li>
+<li>
+<input class="toggle" id="section-af06ccf940ad4f7436fd1797f7335e55" type="checkbox"/>
+<label class="flex justify-between" for="section-af06ccf940ad4f7436fd1797f7335e55">
+<a class="" href="../../../../../content/bible/darknetmarkets/types-of-markets/index.html">Types of market</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/types-of-markets/multisig/index.html">Multisignature (Multisig)</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/types-of-markets/escrow/index.html">Escrow</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/types-of-markets/direct_deal/index.html">Direct Deal(DD)</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/choosing_a_market/index.html">Choosing a Darknet Market</a>
+</li>
+<li>
+<input class="toggle" id="section-79e86efc7e8a437a2a80ee92aee0d415" type="checkbox"/>
+<label class="flex justify-between" for="section-79e86efc7e8a437a2a80ee92aee0d415">
+<a class="" href="../../../../../content/bible/darknetmarkets/how-to-verify-an-onion/index.html">How to verify an onion</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/how-to-verify-an-onion/verify_onion/index.html">How to verify an onion</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/how-to-verify-an-onion/practice_verifying/index.html">Practice verifying</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/how-to-verify-an-onion/how_ddf_dnl_were_hijacked/index.html">How DDF/DNL were hijacked</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/choosing_a_vendor/index.html">Choosing a vendor</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/types_of_scams/index.html">Types of Scams</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/how_to_be_a_good_buyer/index.html">How to be a good buyer</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/getting_a_lawyer/index.html">Getting a lawyer</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/making_a_purchase/index.html">Making a purchase</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/giving_feedback/index.html">Giving Feedback</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/darknetmarkets/irl_opsec/index.html">IRL OpSec</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-2aeff91c301acc8a9ac4cbbf654ed6d9" type="checkbox"/>
+<label class="flex justify-between" for="section-2aeff91c301acc8a9ac4cbbf654ed6d9">
+<a class="" href="../../../../../content/bible/communication-methods/index.html">Alternative communication methods</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/communication-methods/email/index.html">Email</a>
+</li>
+<li>
+<input class="toggle" id="section-71a314f0414e8b8edb23b74e764cd9a7" type="checkbox"/>
+<label class="flex justify-between" for="section-71a314f0414e8b8edb23b74e764cd9a7">
+<a class="" href="../../../../../content/bible/communication-methods/jabberxmpp/index.html">Jabber / XMPP</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/communication-methods/jabberxmpp/gajim+omemo/index.html">Setup Gajim+OMEMO</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/communication-methods/jabberxmpp/setup-pidgin+otr/index.html">Setup Pidgin+OTR</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/communication-methods/jabberxmpp/using-pidgin+otr/index.html">Using pidgin+OTR (XMPP)</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/communication-methods/jabberxmpp/services/index.html">Services</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-251d6b5a41e42f291064d7830f6284d2" type="checkbox"/>
+<label class="flex justify-between" for="section-251d6b5a41e42f291064d7830f6284d2">
+<a class="" href="../../../../../content/bible/miscellaneous-information/index.html">Miscellaneous information</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/miscellaneous-information/javascript/index.html">Javascript</a>
+</li>
+<li>
+<input class="toggle" id="section-d9326c844a6c53703a1cb9949c0ae4d7" type="checkbox"/>
+<label class="flex justify-between" for="section-d9326c844a6c53703a1cb9949c0ae4d7">
+<a class="" href="../../../../../content/bible/miscellaneous-information/offline-version/index.html">Offline Version</a>
+<span>▾</span>
+</label>
+<ul>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-ae5b57bd925ea6bcabec64cabdeb338d" type="checkbox"/>
+<label class="flex justify-between" for="section-ae5b57bd925ea6bcabec64cabdeb338d">
+<a class="" href="../../../../../content/bible/miscellaneous-information/removing-exif-data/index.html">Removing Exif Data</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/miscellaneous-information/removing-exif-data/uploading_images_securely/index.html">Uploading images securely</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-e607e4f30ea2c7bb23b5ae595d238ba6" type="checkbox"/>
+<label class="flex justify-between" for="section-e607e4f30ea2c7bb23b5ae595d238ba6">
+<a class="" href="../../../../../content/bible/miscellaneous-information/openbazaar/index.html">OpenBazaar</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/miscellaneous-information/openbazaar/installing_on_whonix/index.html">Installing on Whonix</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/miscellaneous-information/openbazaar/customizing_the_settings/index.html">Customizing the settings</a>
+</li>
+</ul>
+</li>
+<li>
+<input class="toggle" id="section-22efcc6ea98ddcb322c5d1ba35a0b9bd" type="checkbox"/>
+<label class="flex justify-between" for="section-22efcc6ea98ddcb322c5d1ba35a0b9bd">
+<a class="" href="../../../../../content/bible/miscellaneous-information/i2p/index.html">I2P</a>
+<span>▾</span>
+</label>
+<ul>
+<li>
+<a class="" href="../../../../../content/bible/miscellaneous-information/i2p/tails/index.html">Tails I2P</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/miscellaneous-information/i2p/androidi2p/index.html">Android I2P</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/miscellaneous-information/i2p/ubuntui2p/index.html">Ubuntu I2P</a>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/miscellaneous-information/i2p/qubeswhonixi2p/index.html">Qubes/Whonix I2P</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a class="" href="../../../../../content/bible/closing-words/index.html">Closing Words</a>
+<ul>
+</ul>
+</li>
+</ul>
+</li>
+<li class="book-section-flat">
+<span>Appendix</span>
+<ul>
+<li>
+<a class="" href="../../../../../content/appendix/resources/index.html">Resources</a>
+</li>
+<li>
+<a class="" href="../../../../../content/appendix/contents/index.html">Table of Contents</a>
+</li>
+<li>
+<a class="" href="../../../../../content/appendix/glossary/index.html">Glossary</a>
+</li>
+<li>
+<a class="" href="../../../../../content/appendix/faq/index.html">FAQ</a>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</aside>
+<div class="book-page">
+<header class="book-header">
+<div class="flex align-center justify-between">
+<label for="menu-control">
+<img alt="Menu" class="book-icon" src="../../../../../content/svg/menu.svg"/>
+</label>
+<strong>Installation</strong>
+<label for="toc-control">
+<img alt="Table of Contents" class="book-icon" src="../../../../../content/svg/toc.svg"/>
+</label>
+</div>
+<aside class="hidden clearfix">
+<br/><br/><br/>
+<nav id="TableOfContents">
+<ul>
+<li><a href="#getting-started">Getting started</a>
+<ul>
+<li><a href="#installation">Installation</a></li>
+<li><a href="#prerequisites">Prerequisites</a></li>
+<li><a href="#start-the-install">Start the Install</a></li>
+<li><a href="#post-installation-setup">Post Installation Setup</a></li>
+<li><a href="#recommended-apps">Recommended Apps</a></li>
+<li><a href="#conclusion">Conclusion</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</aside>
+</header>
+<article class="markdown"><h1 id="getting-started">Getting started</h1>
+<blockquote class="book-hint danger">
+  Before we begin remember this guide should only be used if you have no other options! Mobile is still not good for your opsec!
+</blockquote>
+<h2 id="installation">Installation</h2>
+<p>Graphene has two officially supported installation methods, this guide will cover the recommended method.</p>
+<ul>
+<li>WebUSB-based Installer - recommended for most users</li>
+<li>Command Line Install - recommended for advanced users</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<p>Install an officially supported operating system, you should have at least 4GB of free memory available and 32GB of free storage.</p>
+<ul>
+<li>Windows 10</li>
+<li>Windows 11</li>
+<li>macOS Catalina (10.15)</li>
+<li>macOS Big Sur (11)</li>
+<li>macOS Monterey (12)</li>
+<li>Arch Linux</li>
+<li>Debian 10 (buster)</li>
+<li>Debian 11 (bullseye)</li>
+<li>Ubuntu 20.04 LTS</li>
+<li>Ubuntu 22.04 LTS</li>
+<li>ChromeOS</li>
+<li>GrapheneOS</li>
+<li>Google Android (stock Pixel OS) and other certified Android variants</li>
+</ul>
+<p>Ensure your system is up to date before proceeding.</p>
+<h2 id="start-the-install">Start the Install</h2>
+<p>Install an officially supported browser on your computer</p>
+<ul>
+<li>Chromium (<font color="red">outside Ubuntu, since they ship a broken Snap package without working WebUSB</font>)</li>
+<li>Vanadium (GrapheneOS)</li>
+<li>Google Chrome</li>
+<li>Microsoft Edge</li>
+<li>Brave</li>
+</ul>
+<p>Ensure your browser is up to date before proceeding.</p>
+<p><font color="red">Do NOT use incognito or other private modes for installation.</font></p>
+<p>Enable OEM Unlocking</p>
+<ul>
+<li>Enable developer options by going to Settings -&gt; About this phone -&gt; tap the build number option until developer mode is enabled.</li>
+<li>Go to Settings -&gt; Developer options -&gt; Toggle OEM unlocking</li>
+</ul>
+<p>Flashing as non-root (Linux specific)</p>
+<ul>
+<li>On Arch Linux, install the android-udev package. On Debian and Ubuntu, install the android-sdk-platform-tools-common package.</li>
+</ul>
+<p>Arch Linux:
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo pacman -Syy android-udev</code></pre></div></p>
+<p>Ubuntu:
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">sudo apt-get install android-sdk-platform-tools-common</code></pre></div></p>
+<p>Boot into the bootloader interface</p>
+<ul>
+<li>Reboot the device and hold the volume down button while the phone boots. Continue holding volume down until the phone boots into the bootloader interface</li>
+</ul>
+<p>Connecting the phone</p>
+<ul>
+<li>Connect the phone to the computer. On Linux, you’ll need to do this again if you didn’t have the udev rules set up when you connected it.</li>
+</ul>
+<p>On Windows devices if you don’t have the fastboot driver already installed you will need to install them to move forward. Alternatively you can also install the latest drivers for pixels.</p>
+<p>Proceed to the official GrapheneOS website, and navigate to install -&gt; web installer.</p>
+<p>Jump to the ‘Unlocking the bootloader’ section.</p>
+<p>Follow the remaining installation steps on the page. ( &lt;font color="red"listing the next steps would be pointless as you need to click page buttons to initiate WebUSB commands)</p>
+<h2 id="post-installation-setup">Post Installation Setup</h2>
+<p>Once GrapheneOS installation is completed, it is recommended that you change the following settings.</p>
+<ul>
+<li>Navigate to Settings -&gt; Privacy -&gt; disable camera/microphone access.</li>
+<li>Go to Settings -&gt; Location -&gt; Turn off use location.</li>
+<li>Go to Settings -&gt; Security -&gt; Auto reboot and select an auto reboot time.</li>
+<li>Go to Settings -&gt; Security -&gt; Pin scrambling and enable it.</li>
+<li>Go to Settings -&gt; Security -&gt; Screen lock camera access and disable it.</li>
+</ul>
+<p>Once your settings have been updated, open the browser and download F-Droid. This will act as your app store on your device.</p>
+<h2 id="recommended-apps">Recommended Apps</h2>
+<ul>
+<li>OpenKeychain: Easy PGP</li>
+<li>AuthPass - KeePass compatible</li>
+<li>InviZible Pro</li>
+<li>Fennec F-Droid</li>
+<li>Tor Browser for Android</li>
+<li>(Look for F-Droid (FOSS) alternatives for PlayStore apps)</li>
+</ul>
+<p>Once you have installed your desired apps, begin by configuring them. It is recommended that you follow <a href="../../../../../content/bible/miscellaneous-information/i2p/androidi2p/index.html">here</a> to set up Fennec to browse I2P</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Congratulations, you have successfully set up your secured mobile device! It is important to remember that your devices security is only as secure as you are; be careful of the applications you install, the permissions you provide, and the settings you enable. Using Cellular Service will always de-anonymize you. If you must use it, it is recommended to use a faraday bag or box to limit tracking. Be sure to keep your system up to date with the latest GrapheneOS updates.</p>
+<p>PLEASE follow all guides and read all FAQ questions on grapheneos.org</p>
+</article>
+<footer class="book-footer">
+<div class="flex flex-wrap justify-between">
+<div aria-haspopup="true" class="book-languages" tabindex="0">
+<ul>
+<li class="flex align-center">
+<img alt="Languages" class="book-icon" src="../../../../../content/svg/translate.svg"/>
+      English
+    </li>
+</ul>
+<ul class="book-languages-list">
+<li class="active">
+<a class="flex align-center" href="../../../../../content/index.html">
+<img alt="Languages" class="book-icon" src="../../../../../content/svg/translate.svg"/>
+        English
+      </a>
+</li>
+<li class="">
+<a class="flex align-center" href="../../../../../content/es/index.html">
+<img alt="Languages" class="book-icon" src="../../../../../content/svg/translate.svg"/>
+        Spanish
+      </a>
+</li>
+<li class="">
+<a class="flex align-center" href="../../../../../content/fr/index.html">
+<img alt="Languages" class="book-icon" src="../../../../../content/svg/translate.svg"/>
+        French
+      </a>
+</li>
+<li class="">
+<a class="flex align-center" href="../../../../../content/de/index.html">
+<img alt="Languages" class="book-icon" src="../../../../../content/svg/translate.svg"/>
+        German
+      </a>
+</li>
+</ul>
+</div>
+</div>
+</footer>
+<label class="hidden book-menu-overlay" for="menu-control"></label>
+</div>
+<aside class="book-toc">
+<br/><br/><br/>
+<nav id="TableOfContents">
+<ul>
+<li><a href="#getting-started">Getting started</a>
+<ul>
+<li><a href="#installation">Installation</a></li>
+<li><a href="#prerequisites">Prerequisites</a></li>
+<li><a href="#start-the-install">Start the Install</a></li>
+<li><a href="#post-installation-setup">Post Installation Setup</a></li>
+<li><a href="#recommended-apps">Recommended Apps</a></li>
+<li><a href="#conclusion">Conclusion</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</aside>
+</main>
+<div id="js-warning">
+<input checked="" id="warning" type="checkbox"/>
+<div class="modal">
+<div class="modal__inner">
+<h1>Warning</h1>
+<p>Warning you have javascript enabled! Go to <a href="../../../../../content/bible/miscellaneous-information/javascript/index.html">this page</a> to learn how to disable it.</p>
+<label for="warning" id="js-warning-close">X</label>
+</div>
+</div>
+</div>
+<style>
+    #js-warning .modal {
+        align-items: center;
+        background-color: rgba(0,0,0,0.75);
+        bottom: 0;
+        display: flex;
+        justify-content: center;
+        left: 0;
+        opacity: 0;
+        position: fixed;
+        right: 0;
+        top: 0;
+        visibility: hidden;
+    }
+    #js-warning .modal__inner {
+        background: white;
+        padding: 30px;
+        position: absolute;
+        color: black;
+    }
+    #js-warning label {
+        display: inline-block;
+        cursor: pointer;
+    }
+    #js-warning input {
+        display: none;
+    }
+    #js-warning-close{
+        color: #fff;
+        text-align: center;
+    }
+    #js-warning input:checked + .modal {
+        opacity: 1;
+        visibility: visible;
+    }
+    #js-warning input:checked + .modal label {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 30px;
+        background: #666666;
+    }
+    #js-warning input:checked + .modal label:hover {
+        background: #333333;
+    }
+</style>
+<noscript>
+<style>
+		#js-warning {
+            display: none;
+        }
+	</style>
+</noscript>
+</body>
+</html>

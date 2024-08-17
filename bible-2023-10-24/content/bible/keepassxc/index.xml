@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KeePassXC on DNM Bible</title>
+    <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/keepassxc/</link>
+    <description>Recent content in KeePassXC on DNM Bible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/keepassxc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating a database</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/keepassxc/creating_a_databse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/keepassxc/creating_a_databse/</guid>
+      <description>Creating a KeePassXC database Before creating a new database make sure that you have set up and unlocked the persistent volume.  On the welcome screen, click on &amp;lsquo;Create new database&amp;rsquo;. Alternatively, click on &amp;ldquo;Database&amp;rdquo; in the menu bar -&amp;gt; &amp;ldquo;New database&amp;rdquo;.
+Make sure you save the database on the persistent volume. If you fail to do this your database will be gone when you restart Tails.
+  You will now enter your master password.</description>
+    </item>
+    
+    <item>
+      <title>Opening a database</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/keepassxc/opening_a_database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/keepassxc/opening_a_database/</guid>
+      <description>Opening a KeePassXC database If the program isn&amp;rsquo;t already opened go to &amp;ldquo;Applications&amp;rdquo; -&amp;gt; &amp;ldquo;Accessories&amp;rdquo; -&amp;gt; &amp;ldquo;KeePassXC&amp;rdquo; to start KeePassXC.
+Click on &amp;ldquo;Open existing database&amp;rdquo;. Then navigate to the directory where you stored your database, and double click on the .kdbx file.
+Now enter you master password and click &amp;ldquo;Ok&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Adding entries</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/keepassxc/adding_entries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/keepassxc/adding_entries/</guid>
+      <description>Adding entries Let us say you want to add the login credentials of a market account. To do that, click on &amp;ldquo;Entries&amp;rdquo; -&amp;gt; &amp;ldquo;Add new entry&amp;rdquo;. Set the title to the name of the market, and the username to your market username. To generate a password, click on the button located on the right side. To see the password click on the button right below the icon.
+It is recommended to also click on the button called like &amp;ldquo;/*_&amp;hellip;&amp;rdquo; which is on the right of the button &amp;ldquo;0-9&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Accessing secrets</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/keepassxc/accessing_secrets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/keepassxc/accessing_secrets/</guid>
+      <description>Accessing secrets Right click on the entry you want to use (e.g. the one named after the market on which you want to login). This will open up a context menu and allow you to copy the username or password to the clipboard.
+ Now all you have to do is go to the market site (e.g. registration page or login page) and paste that password there. Your clipboard will automatically clear after 10 seconds, so be quick.</description>
+    </item>
+    
+  </channel>
+</rss>

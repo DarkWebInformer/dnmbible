@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jabber / XMPP on DNM Bible</title>
+    <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/jabberxmpp/</link>
+    <description>Recent content in Jabber / XMPP on DNM Bible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/jabberxmpp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setup Gajim&#43;OMEMO</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/jabberxmpp/gajim&#43;omemo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/jabberxmpp/gajim&#43;omemo/</guid>
+      <description>Starting off In this guide we will cover using Gajim, and OMEMO. This is the recommended way to communicate with XMPP clients. If you already have an XMPP account, like one you use in Pidgin. We will cover how to properly move it to Gajim, and use OMEMO. It is important to note. Like OTR if the person you are trying to communicate with does not have OMEMO installed you will not be able to have a encrypted conersation with them.</description>
+    </item>
+    
+    <item>
+      <title>Setup Pidgin&#43;OTR</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/jabberxmpp/setup-pidgin&#43;otr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/jabberxmpp/setup-pidgin&#43;otr/</guid>
+      <description>Jabber(XMPP) Setup For this example setup we will be using The Calyx Institute. You can read about their public jabber servers, Data retention policy, and other information here
+You do not have to use Calyx Institute if you do not want to. Check this list for some other options. (Their settings will be different from this guide)
+How to configure Pidgin and OTR Plugin First open Pidgin by going to Applications (at the top left of your screen) -&amp;gt; Internet -&amp;gt; Pidgin Internet Messenger.</description>
+    </item>
+    
+    <item>
+      <title>Using pidgin&#43;OTR (XMPP)</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/jabberxmpp/using-pidgin&#43;otr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/jabberxmpp/using-pidgin&#43;otr/</guid>
+      <description>Chatting with someone After setting up your jabber account to chat with someone you will need to add them by going to: Buddies &amp;gt; Add Buddy (close and re-open all the Pidgin windows if the &amp;ldquo;Add Buddy&amp;rdquo; selection is disabled).
+Now enter the username the the other person gave you. I could for example be username99@jabber.calyxinstitute.org. Optionally you can also set an alias for him in the line below which gets shown in the chat window when you chat with that person (instead of the long username which you previously entered).</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/jabberxmpp/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/communication-methods/jabberxmpp/services/</guid>
+      <description>Here is a list of other well known services you can try out. Make sure you check their configuration for their server names, and port numbers.
+ jabber.calyxinstitute.org creep.im thesecure.biz xmpp.jp jabber.hot-chilli.net jabber.otr.im chinwag.im jabb.im jabberes.org jabb3r.org conversations.im jabber.de kode.im  </description>
+    </item>
+    
+  </channel>
+</rss>

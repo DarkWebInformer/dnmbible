@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Operating Systems on DNM Bible</title>
+    <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/</link>
+    <description>Recent content in Operating Systems on DNM Bible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Host Operating System</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/host_operatingsystem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/host_operatingsystem/</guid>
+      <description>Impotant information Before we continute it is important to understand why it is important not to use Windows or Mac. Many people assume they can run Whonix in virtual box, and be secure. While most of you would be fine running windows with Tor that is not the purpose of this guide.
+Windows, and Mac are loaded with backdoors, and both are companies that WILL cooperate with law enforcement.
+This guide is written to help keep you safe, and secure.</description>
+    </item>
+    
+  </channel>
+</rss>

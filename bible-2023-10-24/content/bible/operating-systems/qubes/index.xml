@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qubes/Whonix on DNM Bible</title>
+    <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/qubes/</link>
+    <description>Recent content in Qubes/Whonix on DNM Bible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/qubes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Installing Qubes</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/qubes/installing_qubes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/operating-systems/qubes/installing_qubes/</guid>
+      <description>Installing Qubes Download and Burn the Installation Media
+ Go to qubes-os{dot}org and download the latest available ISO Burn the ISO to a USB Boot up the installation USB on your computer of choice  Go through the Qubes Installation
+ It is highly recommended to follow DoD data destruction standards before installing Qubes to a storage device. Upon boot, select Test Media and Install Qubes OS X.X.X Select your language and keyboard layout Under system, select the Installation Destination and leave it on auto configuration unless you require specific partioning.</description>
+    </item>
+    
+  </channel>
+</rss>

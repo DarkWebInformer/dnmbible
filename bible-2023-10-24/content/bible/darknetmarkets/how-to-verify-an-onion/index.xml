@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How to verify an onion on DNM Bible</title>
+    <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/how-to-verify-an-onion/</link>
+    <description>Recent content in How to verify an onion on DNM Bible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/how-to-verify-an-onion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to verify an onion</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/how-to-verify-an-onion/verify_onion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/how-to-verify-an-onion/verify_onion/</guid>
+      <description>How to verify an onion address Verifying onions. It&amp;rsquo;s such an important thing yet so many people don&amp;rsquo;t know how to do it properly. Always, regardless of where you get the onion from take the time to verify it. You never know when you have a typo, or a simple error. Taking the 10 seconds to verify can save your coins from falling to a phisher.
+Darkfail has a great tool to help you do it, but no one resource should be blindly trusted.</description>
+    </item>
+    
+    <item>
+      <title>Practice verifying</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/how-to-verify-an-onion/practice_verifying/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/how-to-verify-an-onion/practice_verifying/</guid>
+      <description>Practice verifying Lets practice so you can see what it will look like when you verify an onion!
+PGP key First import the bibles pgp key from the /pgp.txt page
+Your onion should look like this: http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/mirrors.txt
+Note The first time you import a new pgp key it is good practice to compare the key to multiple places. Most markets will also post their pgp key on the subdread, or you can compare them with other reputable services.</description>
+    </item>
+    
+    <item>
+      <title>How DDF/DNL were hijacked</title>
+      <link>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/how-to-verify-an-onion/how_ddf_dnl_were_hijacked/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/bible/darknetmarkets/how-to-verify-an-onion/how_ddf_dnl_were_hijacked/</guid>
+      <description>How Darkfail and Darknetlive were hijacked Before you read DDF and DNL and others are great resources! This should explain the level some phishers will go to try and steal your coins. The users that blindly used these sites could have easily protected their coins by verifying!  If the users that fell for this trap had taken the time to verify their coins would be safe today. Instead many lost all their coins.</description>
+    </item>
+    
+  </channel>
+</rss>
